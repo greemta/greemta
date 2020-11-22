@@ -1,0 +1,20 @@
+<div id="main-menu" class="main-menu">
+  {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
+  <ul>
+    {% for item in mainmenu %}
+    <li class="{% if item.url == page.url %}active{% endif %}">
+      <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+    </li>
+    {% endfor %}
+	<li class="">
+	    <a href="https://twitter.com/greemtaeu" target="blank"><img src="https://challenge.greemta.eu/images/social/twitter.png" title="Twitter" alt="Twitter" /></a>
+  	</li>
+	<li class="">
+	    <a href="https://www.facebook.com/greemta" target="blank"><img src="https://challenge.greemta.eu/images/social/facebook.png" title="Facebook" alt="Facebook" /></a>
+  	</li>
+	<li class="">
+		<a href="https://translate.google.com/translate?sl=en&tl=es&u=challenge.greemta.eu"><img src='https://challenge.greemta.eu/images/es.jpg' alt="ES" /></a>
+		<!--<a href="https://challenge.greemta.eu"><img src='https://challenge.greemta.eu/images/en.jpg' alt="EN" /></a>-->
+	</li>
+  </ul>
+</div>
