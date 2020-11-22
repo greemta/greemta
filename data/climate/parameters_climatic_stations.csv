@@ -1,0 +1,8 @@
+code,abbrevation,name
+81,vv,wind speed
+82,dv,direction of wind
+83,t,temperature
+86,hr,relative humidity
+87,pb,bariometric pressure
+88,rs,solar radiation
+89,p,precipitation
