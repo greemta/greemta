@@ -1,1 +1,40 @@
-theme: jekyll-theme-minimal
+baseurl: ''
+exclude: ['README.md']
+permalink: pretty
+title: 'Greemta'
+
+google_analytics_id: ""
+homepage:
+  show_call_box: false
+  tell_me_more: true
+logo:
+  mobile: "images/logo/logo-mobile.png"
+  desktop: "images/logo/logo.png"
+  desktop_height: "20px"
+footer:
+  copyright_text: "<a href='privacy_policy.pdf'>privacy policy</a>"
+
+seo:
+  meta_og_title: "Greemta challenge"
+  meta_og_type: "website"
+  meta_og_url: "https://challenge.greemta.eu"
+  meta_og_image: "https://challenge.greemta.eu/images/placeholder.png"
+  meta_og_description: "Greemta challenge - Help improving how Madrid manage its green spaces. And compete to WIN the first prize of 4.000 EUROS!"
+  meta_twitter_card: "Help improving how Madrid manage its green spaces.
+And compete to WIN the first prize of 4.000 EUROS!"
+  meta_twitter_site: "@greemtaEU"
+  meta_twitter_creator: "@greemtaEU"
+
+collections:
+  contents:
+    output: true
+  team:
+    output: true
+
+sass:
+  indentWidth: 4
+  style: compact # possible values: nested expanded compact compressed
+  precision: 10
+
+plugins:
+  - jekyll-environment-variables
