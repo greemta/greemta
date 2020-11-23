@@ -8,7 +8,7 @@ homepage:
   show_call_box: false
   tell_me_more: true
 logo:
-  mobile: "images/logo/logo-mobile.png"
+  mobile: "images/logo/logo-mobile.svg"
   desktop: "images/logo/logo.png"
   desktop_height: "20px"
 footer:
