@@ -9,7 +9,7 @@ homepage:
   tell_me_more: true
 logo:
   mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.png"
+  desktop: "images/logo/logo.svg"
   desktop_height: "20px"
 footer:
   copyright_text: "<a href='privacy_policy.pdf'>privacy policy</a>"
