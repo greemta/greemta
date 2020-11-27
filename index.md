@@ -12,7 +12,7 @@ intro_image_hide_on_mobile: true
 Help to improve how **Madrid** manages its **green spaces**...
 
 ## ... and WIN the first prize of **&euro;4000**!
-The GreeMta project will award **&euro;8000**. 8 teams will be selected. See all [the prizes](https://challenge.greemta.eu/prizes/)!
+The GreeMta project will award **&euro;8000**.<br/>Eight teams will be selected. See all [the prizes](https://challenge.greemta.eu/prizes/)!
 
 You are invited to develop *web applications, interactive data analyses, visualizations, infographics* based on data (see [datasets](https://challenge.greemta.eu/dataset/)) about the *social* and *economic* values of trees and green in **Madrid**. Check [the rules](https://challenge.greemta.eu/rules/).
 
