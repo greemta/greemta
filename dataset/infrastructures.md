@@ -15,6 +15,7 @@ We have extracted some of these datasets and created geojson files covering the 
 * [buildings.zip](https://challenge.greemta.eu/data/infrastructures/buildings.zip) (32Mb)<br/>
 * [sidewalks.zip](https://challenge.greemta.eu/data/infrastructures/sidewalks.zip) (53Mb)<br/>
 * [footpaths.zip](https://challenge.greemta.eu/data/infrastructures/footpaths.zip) (32Mb)<br/>
+* [bikelanes.zip](https://challenge.greemta.eu/data/infrastructures/bike_lanes.zip) (3Mb)<br/>
 
 The data is open data and is licensed under these conditions<br/>
 
