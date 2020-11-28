@@ -14,7 +14,6 @@ Information about each of these trees is available such as:
 - species and genus
 - geographic coordinates
 - ...
-(look the table down)
 
 Trees produce so many benefits and this is important information to know.
 
@@ -22,48 +21,14 @@ This is one of the most important datasets for our challenge.
 
 The dataset contains all the trees managed by the Municipality, excluding trees in parks and gardens, areas of property or areas of recent construction not yet received by the Municipality.
 <br/><br/>
-You can obtain the dataset in csv format with the coordinates in latitude (y) and longitude (x) in WGS84 (epsg:4326) by downloading the file
-* [trees_madrid.zip](https://challenge.greemta.eu/data/green/trees_madrid.zip) (61Mb) (last update 15/11/2020).
+You can obtain the dataset in csv format with the coordinates in latitude and longitude in WGS84 (epsg:4326) by downloading the file
+* [trees_madrid.zip](https://challenge.greemta.eu/data/green/trees_madrid.zip) (61Mb) (last update 28/11/2020).
+* [https://challenge.greemta.eu/data/green/tree_grates.zip](tree_grates.zip) (last update 28/11/2020).
 
-The first row of the dataset contains the field with the names in spanish language.<br/>
-The spatial reference system is WGS84 - epsg:4326.<br/>
 
-Here a translation of the fields
-
-| column 	| description 	|
-|-	|-	|
-| x	| longitude |
-| y	| latitude  |
-| NOMBRE_COMUN 	| common name of the tree type (in spanish) 	|
-| MINTLOTE | identify code of the lot | 
-| NOMBRE_LOTE | name of the lot |
-| MINTDISTRITO | identify code of the district |
-| NOMBRE_DISTRITO | name of the district | 
-| MINTBARRIO | identify code of the neighborhood |
-| NOMBRE_BARRIO | name of the neighborhood |
-| MINTHIERARCHYPATH | classification path |
-| MINTTIPOVIA | type of street |
-| MINTNOMBREVIA | name of street |
-| MINTNUMEROVIA | number on street |
-| MINTNDP | identify code of area |
-| MINTDIRECCIONAUX | identify code of direction |
-| MINTCODPOSTAL | postal code |
-| SERIALNUM | serial number | 
-| MINTUNIDAD_GESTION |  code of management unit|
-| NOMBRE_UGESTION | name of management unit |
-| MINTSUPVERDE | identify code of green area |
-| NOMBRE_SUPVERDE | name of green area |
-| ESA_ESPECIE | species abbrevation |
-| NOMBRE_ESPECIE | name of the specie (in spanish) | 
-| SENESCENCIA| plant senescence | 
-| EDAD_FENOL | phenological phase |
-| TIPO_INTERFERENCIA | type of interference |
-| ESTADO | status |
-| ETIQUETA | label | 
-| DIAMETRO_COPA | tree crown diameter|
-| ALTURA | tree height |
-| PERIMETRO | girth of trunk| 
-
+note<br/>
+the 'tree grates' are the places planned to host a tree long a street (most are already used).<br/>
+This dataset can be used as support for you project.
 
 
 You can also access the file from the ArcGIS Catalog via RestAPI from this end point [http://sigma.madrid.es/arcgismalla/rest/services/MTMOV](http://sigma.madrid.es/arcgismalla/rest/services/MTMOV)
