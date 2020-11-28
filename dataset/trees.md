@@ -24,11 +24,15 @@ The dataset contains all the trees managed by the Municipality, excluding trees 
 You can obtain the dataset in csv format with the coordinates in latitude and longitude in WGS84 (epsg:4326) by downloading the file
 * [trees_madrid.zip](https://challenge.greemta.eu/data/green/trees_madrid.zip) (61Mb) (last update 28/11/2020).
 * [tree_grates.zip](https://challenge.greemta.eu/data/green/tree_grates.zip) (last update 28/11/2020).
+* [plantation_plan_2019_20.csv](https://challenge.greemta.eu/data/green/plantation_plan_2019_20.csv).
+* [pruning_plan_2019_2020.csv](https://challenge.greemta.eu/data/green/pruning_plan_2019_2020.csv).
 
 
 note<br/>
 the 'tree grates' are the places planned to host a tree long a street (most are already used).<br/>
 This dataset can be used as support for you project.
+
+Check also the datasets present on the section [Arbolado en parques y zonas verdes de Madrid](https://datos.madrid.es/sites/v/index.jsp?vgnextoid=0101507f09436610VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD) of the opendata portal of Madrid.
 
 
 You can also access the file from the ArcGIS Catalog via RestAPI from this end point [http://sigma.madrid.es/arcgismalla/rest/services/MTMOV](http://sigma.madrid.es/arcgismalla/rest/services/MTMOV)
