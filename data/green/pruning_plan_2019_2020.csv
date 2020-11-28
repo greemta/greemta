@@ -1,0 +1,769 @@
+district,green_aeaa_ZV_road_trees_AV,location,specie,performance,units
+Centro,ZV,Angosta de los Mancebos,Morus alba,Poda de rebaje,1
+Centro,ZV,"Atenas, parque",Aesculus hippocastanum,Poda de rebaje,4
+Centro,ZV,"Atenas, parque",Gleditsia triacanthos,Poda de rebaje,10
+Centro,ZV,"Atenas, parque",Robinia pseudoacacia,Poda de rebaje,5
+Centro,ZV,"Atenas, parque",Sophora japonica,Poda de rebaje,23
+Centro,ZV,"Atenas, parque",Ulmus pumila,Poda de rebaje,5
+Centro,ZV,Puerta de Toledo,Acer negundo,Poda de rebaje,10
+Centro,ZV,"Santa Bárbara, plaza",Platanus x hybrida,Poda de rebaje,9
+Centro,ZV,"Santa Bárbara, plaza",Sophora japonica,Poda de rebaje,3
+Centro,AV,"Alberto Aguilera, calle",Platanus x hybrida,Poda de rebaje,15
+Centro,AV,"Concepción Jerónima, calle",Ulmus pumila,Poda de rebaje,2
+Centro,AV,La Paloma,Platanus x hybrida,Poda de rebaje,1
+Centro,AV,"Lavapiés, plaza",Ulmus pumila,Poda de rebaje,8
+Centro,AV,"Ribera de Curtidores, calle",Platanus x hybrida,Poda de rebaje,115
+Arganzuela,ZV,"Enrique Tierno Galván, parque",Varias especies,Poda de rebaje ,100
+Arganzuela,ZV,Sebastián Herrera,Platanus x hybrida,Poda de rebaje ,12
+Arganzuela,AV,"Bolívar, calle (Cobre a Circonita)",Platanus x hybrida,Poda de rebaje ,21
+Arganzuela,AV,"Bustamante, calle (paseo de las Delicias - Rafael de Riego)",Platanus x hybrida,Poda de rebaje ,10
+Arganzuela,AV,"Cáceres, calle (Santa María de la Cabeza y Fernando Poo)",Varias especies,Poda de rebaje ,19
+Arganzuela,AV,"Cobre, calle (Granito - Bolívar)",Platanus x hybrida,Poda de rebaje ,11
+Arganzuela,AV,"Delicias, paseo (Ferrocarril - Atocha)",Platanus x hybrida,Poda de rebaje ,114
+Arganzuela,AV,"Embajadores, 203, calle",Ulmus pumila,Poda de rebaje ,1
+Arganzuela,AV,"General Lacy, calle, c/v Canarias y General Lacy c/v Áncora",Ulmus pumila,Poda de rebaje ,2
+Arganzuela,AV,"Granito, calle (Plomo - Cobre)",Platanus x hybrida,Poda de rebaje ,20
+Arganzuela,AV,"José de Villarreal, calle",Varias especies,Poda de rebaje ,13
+Arganzuela,AV,"Molino, paseo",Platanus x hybrida,Poda de rebaje ,17
+Arganzuela,AV,"Plomo, calle (Granito - Bolívar)",Platanus x hybrida,Poda de rebaje ,10
+Arganzuela,AV,"Santa María de la Cabeza, paseo",Platanus x hybrida,Poda de rebaje ,50
+Arganzuela,AV,"Yeserías, impares, paseo (entre Arganda y Naves)",Varias especies,Poda de rebaje ,28
+Retiro,ZV,"Martin Luther King, lateral M-30  desde Triquet a Ciudad de Barcelona",Ulmus pumila,Poda de rebaje,15
+Retiro,ZV,"Roma, parque, acceso O´Donnell a Alcalde Sainz de Baranda",Varias especies,Poda de rebaje,81
+Retiro,AV,"Andres Torrejón, calle (Reina Cristina - Juan Valera)",Varias especies,Poda de rebaje,24
+Retiro,AV,"Angel Ganivet, calle",Platanus x hybrida,Poda de rebaje,3
+Retiro,AV,"Anunciación, calle",Platanus x hybrida,Poda de rebaje,20
+Retiro,AV,"Carlos y Guillermo Fernandez Shaw, calle",Platanus x hybrida,Poda de rebaje,7
+Retiro,AV,"Cerro Negro, calle",Varias especies,Poda de rebaje,30
+Retiro,AV,"Ciudad de Barcelona, avenida (Menéndez Pelayo y Reina Cristina, más números 47 al 53 )",Platanus x hybrida,Poda de rebaje,125
+Retiro,AV,"Doce de Octubre, calle",Varias especies,Poda de rebaje,100
+Retiro,AV,"Reyes Magos, plaza",Varias especies,Poda de rebaje,26
+Retiro,AV,"Walia, calle",Varias especies,Poda de rebaje,8
+Salamanca,ZV,"Avenidas, parque de las",Varias especies,Poda de mantenimiento / Poda de rebaje,15
+Salamanca,ZV,"Brescia c/v Biarrit, zona verde",Ulmus pumila,Poda de mantenimiento / Poda de rebaje,14
+Salamanca,ZV,"María Eva Duarte de Perón, parque",Ulmus pumila y Celtis sp,Poda de mantenimiento / Poda de rebaje,21
+Salamanca,AV,"Ayala, calle ( Príncipe de Vergara - Serrano )",Varias especies,Poda de mantenimiento / Poda de rebaje,90
+Salamanca,AV,"Conde de Peñalver, calle (Ortega y Gasset - Diego de León)",Varias especies,Poda de mantenimiento / Poda de rebaje,160
+Salamanca,AV,"Don Ramón de la Cruz, calle (Príncipe de Vergara - Alcántara )",Sophora japonica,Poda de mantenimiento / Poda de rebaje,90
+Salamanca,AV,"General Pardiñas, calle (Don Ramón de la Cruz - Ortega y Gasset)",Varias especies,Poda de mantenimiento / Poda de rebaje,29
+Salamanca,AV,"Marques de Zafra, calle",Varias especies,Poda de mantenimiento / Poda de rebaje,93
+Salamanca,AV,"Roberto Domingo, calle",Platanus x hybrida,Poda de mantenimiento / Poda de rebaje,66
+Chamartín,ZV,Jardines San Fernando,Platanus x hybrida,Poda de formación,19
+Chamartín,ZV,Jardines San Fernando,"Platanus x hybrida, Pinus pinea",Poda de mantenimiento,36
+Chamartín,ZV,Puerto Rico 52,Ulmus pumila,Poda de rebaje,16
+Chamartín,AV,"Arquitecto Gaudí, calle",Varias especies,Poda de rebaje,6
+Chamartín,AV,"Cidacos, calle","Platanus x hybrida, Ulmus pumila",Poda de rebaje,13
+Chamartín,AV,Clara del Rey. calle (San Nazario - Canillas),Platanus x hybrida,Poda de rebaje,82
+Chamartín,AV,"Doctor Fleming, calle (Rafael Salgado - Alberto Alcocer)",Platanus x hybrida,Poda de rebaje,72
+Chamartín,AV,"Gallarza, calle",,Poda de rebaje,18
+Chamartín,AV,"Gómez Ortega, calle",Platanus x hybrida,Poda de rebaje,14
+Chamartín,AV,"Luis Salazar, calle (Clara del Rey - Corazón de María)",Platanus x hybrida,Poda de rebaje,8
+Chamartín,AV,"Manuel de Falla, calle (Doctor Fleming - Juan Ramón Jiménez)",Varias especies,Poda de rebaje,30
+Chamartín,AV,"Marqués de Valdecilla, calle",Varias especies,Poda de rebaje,23
+Chamartín,AV,"Padre Damián, calle (Rafael Salgado - Alberto Alcocer)",Varias especies,Poda de rebaje,100
+Chamartín,AV,"Roncal, calle",Platanus x hybrida,Poda de rebaje,9
+Chamartín,AV,"San Nazario, calle",Platanus x hybrida,Poda de rebaje,35
+Chamartín,AV,"Velázquez, calle (Joaquín Costa - Doctor Arce)",Platanus x hybrida,Poda de rebaje,60
+Tetuán,ZV,Azucenas - Fray Junipero Serra,Acer negundo,Poda de mantenimiento,6
+Tetuán,ZV,Azucenas - Fray Junipero Serra,Ailanthus altissima,Poda de rebaje,1
+Tetuán,ZV,Azucenas - Fray Junipero Serra,Fraxinus excelsior,Poda de mantenimiento,17
+Tetuán,ZV,"Brasil, 5 - 7, avenida",Ulmus pumila,Poda de rebaje,3
+Tetuán,ZV,"Huerta del Obispo, parque",Gleditsia tricanthos,Tala seco,1
+Tetuán,ZV,"Huerta del Obispo, parque",Populus alba,Poda de mantenimiento,2
+Tetuán,ZV,"Huerta del Obispo, parque",Ulmus pumila,Poda de rebaje,1
+Tetuán,ZV,Jardines de Perón - praderas entrada túneles AZCA,Populus alba,Poda de mantenimiento,82
+Tetuán,ZV,"La Remonta, plaza ",Platanus x hybrida,Poda de rebaje,3
+Tetuán,ZV,"Luis Portones, plaza ",Ulmus pumila,Poda de rebaje,23
+Tetuán,AV,Bravo Murillo  - Cuatro Caminos a Francos Rodríguez,Platanus x hybrida,Poda de rebaje,142
+Tetuán,AV,Castilla,Ulmus pumila,Poda de rebaje,2
+Tetuán,AV,"Donoso, plaza ",Platanus x hybrida,Poda de rebaje,1
+Tetuán,AV,Edgar Neville - Basílica a Reina Mercedes,Platanus x hybrida,Poda de rebaje,39
+Tetuán,AV,Infanta Mercedes - General Perón a San Germán,Platanus x hybrida,Poda de rebaje,86
+Tetuán,AV,Leñeros,Ulmus pumila,Poda de rebaje,8
+Tetuán,AV,Mártires de Paracuellos,Platanus x hybrida,Poda de rebaje,43
+Chamberí,ZV,"Conde Valle Suchil, PAR - Arapiles y Rodríguez San Pedro",Ulmus pumila,Poda de rebaje,16
+Chamberí,ZV,"Conde Valle Suchil, plaza ",Ulmus pumila,Poda de rebaje,69
+Chamberí,AV,"Alberto Aguilera, calle",Platanus hydrida,Poda de rebaje,11
+Chamberí,AV,Andrés Mellado - Cea Bermúdez a Fernández de los Ríos,"Celtis australis, Sophora japonica",Poda de rebaje,80
+Chamberí,AV,Andrés Mellado - Fernández de los Ríos a Alberto Aguilera,Celtis australis,Poda de rebaje,85
+Chamberí,AV,"Blasco de Garay, calle","Sophora japonica, Ulmus pumila",Poda de rebaje,118
+Chamberí,AV,"Fernando El Santo, calle","Sophora  japonica, Ulmus pumila",Poda de rebaje,42
+Chamberí,AV,"General Ibáñez Ibero, calle",Platanus hydrida,Poda de rebaje,68
+Chamberí,AV,San Bernardo,Sophora japonica,Poda de rebaje,91
+Chamberí,AV,"Viriato, calle",Sophora japonica,Poda de rebaje,55
+Chamberí,AV,"Zurbarán, calle","Sophora japonica, Ulmus pumila, Robinia pseudoacacia",Poda de rebaje,104
+Fuencarral - El Pardo,ZV,Celanova - Betanzos (parking C/ Becerreá),Ulmus pumila,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Dionisio Ridruejo, zona verde",Ulmus pumila,Poda de mantenimiento,10
+Fuencarral - El Pardo,ZV,"Fuencarral, poblado dirigido (Badalona c/v Caldas Estrach) ",Ulmus pumila,Poda de mantenimiento,6
+Fuencarral - El Pardo,ZV,"Fuencarral, poblado dirigido (Badalona, 57)",Ulmus pumila,Poda de mantenimiento,10
+Fuencarral - El Pardo,ZV,"Fuencarral, poblado dirigido (Badalona,62)",Ulmus pumila,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Fuencarral, poblado dirigido (Manresa , 31 lateral)",Ulmus pumila,Poda de rebaje,1
+Fuencarral - El Pardo,ZV,"Fuencarral, poblado dirigido (Manresa , 46 lateral)",Ulmus pumila,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Fuencarral, poblado dirigido (Manresa , 64 - 72)",Ulmus pumila,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Fuencarral, poblado dirigido (Mataró, 12-28)",Ulmus pumila,Poda de mantenimiento,8
+Fuencarral - El Pardo,ZV,"Fuencarral, poblado dirigido (Mataró, 8) ",Celtis australis,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Fuencarral, poblado dirigido (Sabadell, 217)",Ulmus pumila,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Fuencarral, poblado dirigido (Sabadell, 80 lateral - posterior)",Ulmus pumila,Poda de mantenimiento,2
+Fuencarral - El Pardo,ZV,"Fuencarral, poblado dirigidp (Cardenal Herrera Oria, 80 - 90)",Sophora japonica,Poda de mantenimiento,12
+Fuencarral - El Pardo,ZV,"Fuentechica, parque",Ulmus pumila,Poda de mantenimiento,6
+Fuencarral - El Pardo,ZV,"Fuentechica, parque (Sandalio López c/v Islas Antípodas)",Platanus x hybrida,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,Guardia Civil,Ulmus pumila,Poda de mantenimiento,25
+Fuencarral - El Pardo,ZV,"Ilustración, avenida (glorieta M. Salvador Maella)",Ulmus pumila,Poda de rebaje,1
+Fuencarral - El Pardo,ZV,Isla de Tabarca c/v Islas Hébridas ,Ulmus pumila,Poda de rebaje,1
+Fuencarral - El Pardo,ZV,"La Bañeza, 40-44, interbloques",Ulmus pumila,Poda de rebaje,17
+Fuencarral - El Pardo,ZV,"La Coma, E.D. 8-4 (Parque La Milanera)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,5
+Fuencarral - El Pardo,ZV,Los 3 Olivos  (Afueras a Valverde),Ulmus pumila,Poda de rebaje / Poda de mantenimiento,9
+Fuencarral - El Pardo,ZV,"Los 3 Olivos (mediana C/Afueras a Valverde, frente 12-24)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,9
+Fuencarral - El Pardo,ZV,"Marcos de Orueta, 9 - 11 ",Acer platanoides,Poda de mantenimiento,2
+Fuencarral - El Pardo,ZV,"Marcos de Orueta, 9 - 11 ",Acer pseudoplatanus,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Marcos de Orueta, 9 - 11 ",Celtis australis,Poda de mantenimiento,3
+Fuencarral - El Pardo,ZV,"Marcos de Orueta, 9 - 11 ",Ulmus pumila,Poda de mantenimiento,10
+Fuencarral - El Pardo,ZV,"Mártires, plaza",Robinia pseudoacacia,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,Monforte de Lemos (mediana Betanzos - Ginzo de Limia),Cupressus sempervirens,Poda de mantenimiento,30
+Fuencarral - El Pardo,ZV,"Montecarmelo interbloques Este (Monasterio de Silos,53)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Padre Cipriano, avenida",Ulmus pumila,Poda de rebaje,54
+Fuencarral - El Pardo,ZV,"Parque Santa Ana, zona forestal",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,45
+Fuencarral - El Pardo,ZV,"Peñagrande, parque",Ulmus pumila,Poda de mantenimiento,34
+Fuencarral - El Pardo,ZV,Polígono 24 V.V.V. (Juan Sánchez c/v César Manrique),Ulmus pumila,Poda de mantenimiento,2
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque",Acer campestris,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque",Acer negundo,Poda de mantenimiento,16
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque",Gleditsia triacanthos,Poda de mantenimiento,7
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque",Morus nigra,Poda de mantenimiento,15
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque",Pinus pinea,Poda de mantenimiento,9
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque",Populus canadensis,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque",Sophora japonica,Poda de mantenimiento,17
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque",Ulmus pumila,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque (plaza de la Mar Oceana)",Acer negundo,Poda de mantenimiento,3
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque (plaza de la Mar Oceana)",Gleditsia triacanthos,Poda de mantenimiento,7
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque (plaza de la Mar Oceana)",Populus canadensis,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Pueblo de El Pardo, parque (plaza de la Mar Oceana)",Sophora japonica,Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Pueblo El Pardo, parque (avenida La Guardia, 1- plaza San Fernando)",Morus alba,Poda de rebaje / Poda de mantenimiento,4
+Fuencarral - El Pardo,ZV,"Pueblo El Pardo, parque (avenida La Guardia, 1- plaza San Fernando)",Sophora japonica ,Poda de rebaje / Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Pueblo El Pardo, parque (avenida La Guardia, 1- plaza San Fernando)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Saceral, colonia (Ventisquero de la Condesa)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,5
+Fuencarral - El Pardo,ZV,Sanchonuño (Islas Jarvi),Ulmus pumila,Poda de rebaje / Poda de mantenimiento,7
+Fuencarral - El Pardo,ZV,"Santa Ana, polígono (calle Braille, 4)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Santa Ana, polígono (calle Braille, frente 28)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,1
+Fuencarral - El Pardo,ZV,"Santa Ana, polígono (calle Braille, frente 28)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,3
+Fuencarral - El Pardo,ZV,"Virgen de Begoña, barrio (San Dacio, 52)",Ulmus pumila,Poda de rebaje,1
+Fuencarral - El Pardo,AV,"Badalona, 17-23, calle",Sophora japonica,Poda de rebaje,7
+Fuencarral - El Pardo,AV,"Badalona, 17-23, calle",Ulmus pumila,Poda de rebaje,1
+Fuencarral - El Pardo,AV,"Badalona, 23, lateral, calle",Ulmus pumila,Poda de rebaje,1
+Fuencarral - El Pardo,AV,"Badalona, 62, calle",Sophora japonica ,Poda de mantenimiento,1
+Fuencarral - El Pardo,AV,"Badalona, calle c/v Caldas Estrach",Ulmus pumila,Poda de mantenimiento,3
+Fuencarral - El Pardo,AV,"Becerreá, calle",Ulmus pumila,Poda de mantenimiento,25
+Fuencarral - El Pardo,AV,"Betanzos, 65-75, avenida",Ulmus pumila,Poda de rebaje,5
+Fuencarral - El Pardo,AV,"Betanzos, avenida (Melchor Fernández Almagro - Monforte de Lemos)",Varias especies,Poda de rebaje / Poda de mantenimiento,37
+Fuencarral - El Pardo,AV,"Betanzos, avenida (Monforte de Lemos - paseo Vaguada)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,27
+Fuencarral - El Pardo,AV,"Campaña, calle, c/v carretera de El Pardo a Colmenar Viejo",Ulmus pumila,Poda de rebaje,3
+Fuencarral - El Pardo,AV,"Cardenal Herrera Oria, avenida (Arroyofresno-Chapinería)",Ulmus pumila,Poda de mantenimiento,6
+Fuencarral - El Pardo,AV,"Cardenal Herrera Oria, avenida (Ntra.Sra.Valverde-M.Agüi)",Ulmus pumila,Poda de mantenimiento,4
+Fuencarral - El Pardo,AV,"Fermín Caballero, calle",Celtis australis,Poda de mantenimiento,25
+Fuencarral - El Pardo,AV,"Fermín Caballero, calle",Ulmus pumila,Poda de mantenimiento,80
+Fuencarral - El Pardo,AV,"Ferrol, avenida",Ulmus pumila,Poda de rebaje,50
+Fuencarral - El Pardo,AV,"Finisterre, calle",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,12
+Fuencarral - El Pardo,AV,"Fuencarral a El Pardo, carretera (avenida Palacio - avenida La Guardia)",Gleditsia triacanthos,Poda de rebaje / Poda de mantenimiento,1
+Fuencarral - El Pardo,AV,"Fuencarral a El Pardo, carretera (avenida Palacio - avenida La Guardia)",Morus alba,Poda de rebaje / Poda de mantenimiento,3
+Fuencarral - El Pardo,AV,"Fuencarral a El Pardo, carretera (avenida Palacio - avenida La Guardia)",Ulmus campestris,Poda de rebaje / Poda de mantenimiento,7
+Fuencarral - El Pardo,AV,Hospitalet de Llobregat (esquina Molins de Rey),Platanus x hybrida,Poda de mantenimiento,2
+Fuencarral - El Pardo,AV,"Islas Bikini, calle",Robinia pseudoacacia,Poda de rebaje,2
+Fuencarral - El Pardo,AV,"Islas Bikini, calle",Ulmus campestris,Poda de rebaje,9
+Fuencarral - El Pardo,AV,"Islas Bikini, calle",Ulmus pumila,Poda de rebaje,13
+Fuencarral - El Pardo,AV,"Islas Cíes, calle",Ulmus pumila,Poda de rebaje,20
+Fuencarral - El Pardo,AV,"Joaquín Jorge de Alarcón, calle",Ulmus campestris,Poda de rebaje,4
+Fuencarral - El Pardo,AV,"La Masó, calle (Col. Mirasierra y aparcamiento)",Ulmus pumila,Poda de rebaje,5
+Fuencarral - El Pardo,AV,"Los Mártires, plaza",Robinia pseudoacacia,Poda de mantenimiento,11
+Fuencarral - El Pardo,AV,"Los Monteros, 15, calle",Ulmus pumila,Poda de rebaje,1
+Fuencarral - El Pardo,AV,"Monasterio de Samos, calle",Ulmus pumila,Poda de mantenimiento,23
+Fuencarral - El Pardo,AV,"Monforte de Lemos, 167-153, avenida",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,3
+Fuencarral - El Pardo,AV,"Monforte de Lemos, avenida, impares (Betanzos - G. Limia)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,129
+Fuencarral - El Pardo,AV,"Pedro Rico, calle (c/v Monforte de Lemos)",Ulmus pumila,Poda de mantenimiento,43
+Fuencarral - El Pardo,AV,"Peña Auseba, calle",Ulmus pumila,Poda de rebaje,10
+Fuencarral - El Pardo,AV,"Ramon Gómez de la Serna, 38-58, calle",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,6
+Fuencarral - El Pardo,AV,Sandalio López c/v Villacastín,Ulmus pumila,Poda de rebaje,3
+Moncloa - Aravaca,ZV,"Arroyopozuelo, parque (Virgen de los Rosales, calle)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,10
+Moncloa - Aravaca,ZV,"Aguilafuente, talud",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,3
+Moncloa - Aravaca,ZV,"Alexanco, zona terriza ",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"Almansa, 97-99",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"Aniceto Marinas, parque",Gleditsia triacanthos,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"Aniceto Marinas, zona verde",Varias especies,Poda de mantenimiento,100
+Moncloa - Aravaca,ZV,"Arroyo Pozulelo, parque (frente a calle Cinabrio)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"Barrial, camino (mediana)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,10
+Moncloa - Aravaca,ZV,"Blas de Otero, parque",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,8
+Moncloa - Aravaca,ZV,Cárcavas de Aravaca,Pinus pinea,Poda de mantenimiento,10
+Moncloa - Aravaca,ZV,"Cinco Lagunas (de Ana Teresa a Osa Mayor), calle ",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,8
+Moncloa - Aravaca,ZV,Ciudad de los Poetas (Valdeverdeja - Sinesio Delgado),Fraxinus sp,Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,Ciudad de los Poetas (Valdeverdeja - Sinesio Delgado),Populus alba,Poda de mantenimiento,2
+Moncloa - Aravaca,ZV,Ciudad de los Poetas (Valdeverdeja - Sinesio Delgado),Robinia pseudoacacia,Poda de rebaje / Poda de mantenimiento,20
+Moncloa - Aravaca,ZV,Ciudad de los Poetas (Valdeverdeja - Sinesio Delgado),Ulmus pumila,Poda de rebaje / Poda de mantenimiento,15
+Moncloa - Aravaca,ZV,Doctor Federico Rubio y Galí (Moguer 3-5),Pinus pinea,Poda de rebaje / Poda de mantenimiento,3
+Moncloa - Aravaca,ZV,"Juan XXIII, parque","Ulmus minor, Ulmus pumilla",Poda de rebaje / Poda de mantenimiento,18
+Moncloa - Aravaca,ZV,"La Rinconada, parque",Platanus x hybrida,Poda de mantenimiento,40
+Moncloa - Aravaca,ZV,"Manzanares, colonia (Ribera del Manzanares esq. Felipe Moratilla)",Sophora japonica,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"Manzanares, colonia (Ribera del Manzanares esq. Felipe Moratilla)",Sophora japonica,Poda de rebaje / Poda de mantenimiento,2
+Moncloa - Aravaca,ZV,"Manzanares, colonia (Ribera del Manzanares, 103)",Sophora japonica,Poda de rebaje / Poda de mantenimiento,3
+Moncloa - Aravaca,ZV,"Manzanares, colonia (Ribera del Manzanares, 27)",Ailanthus altissima,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"Manzanares, colonia (Ribera del Manzanares, 45)",Platanus x hybrida,Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"Manzanares, colonia (Ribera del Manzanares, 49)",Ailanthus altissima,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"Manzanares, colonia (Ribera del Manzanares, 53)",Platanus x hybrida,Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"Manzanares, colonia (Ribera del Manzanares, 95)",Sophora japonica,Poda de rebaje / Poda de mantenimiento,2
+Moncloa - Aravaca,ZV,"Manzanares, colonia (Ribera del Manzanares, 99)",Sophora japonica,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"Manzanares, colonia (Santa Pola, 14)",Morus alba,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"Manzanares, colonia (Santa Pola, 14)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,2
+Moncloa - Aravaca,ZV,"Moret, paseo de ",Robinia pseudoacacia,Poda de rebaje,5
+Moncloa - Aravaca,ZV,"Moret, paseo de ",Sophora japonica,Poda de rebaje,20
+Moncloa - Aravaca,ZV,"Moret, paseo de ",Ulmus pumila,Poda de rebaje,5
+Moncloa - Aravaca,ZV,Recintos Feriales Casa de Campo,Pinus pinea,Poda de mantenimiento,50
+Moncloa - Aravaca,ZV,"Rosa Luxemburgo (junto a Rotonda Zácara), colonia",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,ZV,"San Antonio de la Florida, glorieta",Robinia pseudoacacia,Poda de rebaje / Poda de mantenimiento,5
+Moncloa - Aravaca,ZV,"San Martín de Porres, zona verde - Doctor J.J. López Ibor",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,2
+Moncloa - Aravaca,ZV,"Sanchez Preciados, 39 - 40, colonia ",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,7
+Moncloa - Aravaca,ZV,Sierra Pajarejo,Pinus pinea,Poda de mantenimiento,11
+Moncloa - Aravaca,ZV,Valdemarin Oeste. Ampliación,Pinus pinea,Poda de mantenimiento,18
+Moncloa - Aravaca,ZV,"Victoria, avenida de la",Gleditsia triacanthos,Poda de rebaje / Poda de mantenimiento,100
+Moncloa - Aravaca,ZV,"Vivero, plaza ",Sophora japonica,Poda de rebaje / Poda de mantenimiento,20
+Moncloa - Aravaca,AV,"Agustín Lara, calle",Ailantus altissima,Poda de mantenimiento,20
+Moncloa - Aravaca,AV,Aniceto Marinas (Goya a Madrid Río),Varias especies,Poda de mantenimiento,15
+Moncloa - Aravaca,AV,Aniceto Marinas (Goya a Puente de los Franceses),Platanus x hybrida,Poda de mantenimiento,54
+Moncloa - Aravaca,AV,"Antonio Sanfiz, calle",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,AV,"Arroyopozuelo, mediana (junto Rotonda Záncara)",Populus alba,Poda de mantenimiento,2
+Moncloa - Aravaca,AV,"Arroyopozuelo, mediana (Media Luna)",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,5
+Moncloa - Aravaca,AV,"Beatriz de Bobadilla, calle",Platanus x hybrida,Poda de mantenimiento,10
+Moncloa - Aravaca,AV,"Cabellera de Berenice, 42-44, calle",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,4
+Moncloa - Aravaca,AV,"Centauro, calle",Populus canadensis,Poda de mantenimiento,1
+Moncloa - Aravaca,AV,"Fénix, calle",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,AV,"Ferraz (Marqués de Urquijo a paseo Moret), calle",Ulmus pumila,Poda de rebaje,43
+Moncloa - Aravaca,AV,"Guisando, calle",Populus canadensis,Poda de mantenimiento,1
+Moncloa - Aravaca,AV,"López Puigcerver, calle",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,2
+Moncloa - Aravaca,AV,"Mártires Maristas, avenida",Gleditsia triacanthos,Poda de rebaje / Poda de mantenimiento,2
+Moncloa - Aravaca,AV,"Osa Mayor, avenida, c/v Pico Ocejón, calle",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,1
+Moncloa - Aravaca,AV,"Rollo, plaza",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,2
+Moncloa - Aravaca,AV,"Rosa de Luxemburgo (Yeso, Manzanilla, Tomillo, Focha, Calandria, Rododendro,…), colonia ",Varias especies,Poda de mantenimiento,10
+Moncloa - Aravaca,AV,Sinesio Delgado (Valderrey a Antonio Machado),Platanus x hybrida,Poda de mantenimiento,30
+Moncloa - Aravaca,AV,"Tapia de Casariego, calle",Ulmus pumila,Poda de rebaje / Poda de mantenimiento,5
+Latina,ZV,Centro Juventud Latina (C/ Ocaña 35),Magnolia sp,Poda de mantenimiento,1
+Latina,ZV,Centro Juventud Latina (C/ Ocaña 35),Malus sp,Poda de mantenimiento,2
+Latina,ZV,Centro Juventud Latina (C/ Ocaña 35),Populus sp,Poda de mantenimiento,2
+Latina,ZV,Centro Juventud Latina (C/ Ocaña 35),Taxus baccata,Poda de mantenimiento,1
+Latina,ZV,Centro Juventud Latina (C/ Ocaña 35),Thuja sp,Poda de mantenimiento,9
+Latina,ZV,"Cerro Bermejo, colonia",Morus sp,Poda de mantenimiento,1
+Latina,ZV,"Cerro Bermejo, colonia",Pinus sp,Poda de mantenimiento,1
+Latina,ZV,"Cerro Bermejo, colonia",Populus sp,Poda de mantenimiento,3
+Latina,ZV,"Cerro Bermejo, colonia",Robinia pseudoacacia,Poda de mantenimiento,59
+Latina,ZV,"Cerro Bermejo, colonia",Sophora japonica,Poda de mantenimiento,4
+Latina,ZV,"Cerro Bermejo, colonia",Ulmus pumila,Poda de mantenimiento,58
+Latina,ZV,"Cid Campeador, C.P. ",Eriobotrya japonica,Poda de mantenimiento,3
+Latina,ZV,"Cid Campeador, C.P. ",Ligustrum sp,Poda de mantenimiento,6
+Latina,ZV,"Cid Campeador, C.P. ",Malus sp,Poda de mantenimiento,1
+Latina,ZV,"Cid Campeador, C.P. ",Populus sp,Poda de mantenimiento,4
+Latina,ZV,"Cid Campeador, C.P. ",Prunus sp,Poda de mantenimiento,4
+Latina,ZV,"Cid Campeador, C.P. ",Ulmus pumila,Poda de rebaje,15
+Latina,ZV,Cuña Verde Latina - Cuart de Poblet,Ulmus pumila,Poda de rebaje,115
+Latina,ZV,"Empalme Campamento (Parque Félix Cortés) -Tembleque, 22-24 y 134-144 posterior",Ulmus pumila,Poda de rebaje,28
+Latina,ZV,"Juan Tornero, colonia",Morus sp,Poda de mantenimiento,1
+Latina,ZV,"Juan Tornero, colonia",Populus sp,Poda de mantenimiento,15
+Latina,ZV,"Juan Tornero, colonia",Sophora japonica,Poda de mantenimiento,7
+Latina,ZV,"Juan Tornero, colonia",Ulmus pumila,Poda de rebaje,69
+Latina,ZV,"Logrosan, 14-16, calle",Populus sp,Poda de mantenimiento,2
+Latina,ZV,"Logrosan, 14-16, calle",Ulmus pumila,Poda de rebaje,3
+Latina,ZV,"Logrosan, 8 - 16",Ulmus pumila,Poda de rebaje,28
+Latina,ZV,"Los Cármenes, C.N. ",Acacia sp,Poda de mantenimiento,1
+Latina,ZV,"Los Cármenes, C.N. ",Cupressus sp,Poda de mantenimiento,1
+Latina,ZV,"Los Cármenes, C.N. ",Pinus sp,Poda de mantenimiento,5
+Latina,ZV,"Los Cármenes, C.N. ",Populus sp,Poda de mantenimiento,13
+Latina,ZV,"Los Cármenes, C.N. ",Robinia pseudoacacia,Poda de mantenimiento,1
+Latina,ZV,"Los Cármenes, C.N. ",Ulmus pumila,Poda de rebaje,11
+Latina,ZV,"Mª de Molina, C.P. ",Elaeagnus angustifolia,Poda de mantenimiento,1
+Latina,ZV,"Mª de Molina, C.P. ",Magnolia sp,Poda de mantenimiento,1
+Latina,ZV,"Mª de Molina, C.P. ",Ulmus pumila,Poda de rebaje,14
+Latina,ZV,"Mª de Molina, C.P. ",Ulmus sp y otras especies,Poda de rebaje,30
+Latina,ZV,"Navalmoral de la Mata (Navalmoral de la Mata - Nuñomoral), zona verde",Acer sp ,Poda de mantenimiento,2
+Latina,ZV,"Navalmoral de la Mata (Navalmoral de la Mata - Nuñomoral), zona verde",Catalpa bignonioides,Poda de mantenimiento,1
+Latina,ZV,"Navalmoral de la Mata (Navalmoral de la Mata - Nuñomoral), zona verde",Morus sp,Poda de mantenimiento,4
+Latina,ZV,"Navalmoral de la Mata (Navalmoral de la Mata - Nuñomoral), zona verde",Ulmus pumila,Poda de rebaje,6
+Latina,ZV,Parque de las Cruces (Ricardo Belver - Muntadas - Sondica),Ulmus sp y otras especies,Poda de rebaje,12
+Latina,ZV,Parque de las Cruces (zona Mascaraque - Camino de las Cruces),Cedrus sp,Poda de mantenimiento,5
+Latina,ZV,Parque de las Cruces (zona Mascaraque - Camino de las Cruces),Morus sp,Poda de mantenimiento,30
+Latina,ZV,Parque de las Cruces (zona Mascaraque - Camino de las Cruces),Ulmus pumila,Poda de rebaje,66
+Latina,ZV,"Talud Higueras - Sepúlveda, impares",Ailanthus altissima,Poda de mantenimiento,1
+Latina,ZV,"Talud Higueras - Sepúlveda, impares",Cupressus sp,Poda de mantenimiento,8
+Latina,ZV,"Talud Higueras - Sepúlveda, impares",Laurus sp,Poda de mantenimiento,1
+Latina,ZV,"Talud Higueras - Sepúlveda, impares",Ligustrum sp,Poda de mantenimiento,1
+Latina,ZV,"Talud Higueras - Sepúlveda, impares",Morus sp,Poda de mantenimiento,1
+Latina,ZV,"Talud Higueras - Sepúlveda, impares",Prunus sp,Poda de mantenimiento,5
+Latina,ZV,"Talud Higueras - Sepúlveda, impares",Robinia pseudoacacia,Poda de mantenimiento,5
+Latina,ZV,"Talud Higueras - Sepúlveda, impares",Ulmus pumila,Poda de rebaje,7
+Latina,ZV,"Talud Higueras - Sepúlveda, pares",Ligustrum sp,Poda de mantenimiento,5
+Latina,ZV,"Talud Higueras - Sepúlveda, pares",Populus sp,Poda de mantenimiento,1
+Latina,ZV,"Talud Higueras - Sepúlveda, pares",Prunus sp,Poda de mantenimiento,10
+Latina,ZV,"Talud Higueras - Sepúlveda, pares",Robinia pseudoacacia,Poda de mantenimiento,1
+Latina,ZV,"Talud Higueras - Sepúlveda, pares",Ulmus pumila,Poda de rebaje,12
+Latina,AV,"Aldeanueva, 52-62, calle ",Robinia pseudoacacia,Poda de mantenimiento,1
+Latina,AV,"Aldeanueva, 52-62, calle ",Ulmus pumila,Poda de rebaje,8
+Latina,AV,"Aviación, avenida (Rafael Finat - Valle Inclán)",Ulmus pumila,Poda de rebaje,19
+Latina,AV,"Bujalance, calle",Ulmus pumila,Poda de rebaje,4
+Latina,AV,"Caramuel, calle",Gleditsia triacanthos,Poda de mantenimiento,1
+Latina,AV,"Caramuel, calle",Sophora japonica,Poda de mantenimiento,23
+Latina,AV,"Caramuel, calle",Ulmus pumila,Poda de mantenimiento,9
+Latina,AV,"Cerro Almodóvar, parque (Duquesa de Parcent)",Ulmus pumila,Poda de rebaje,99
+Latina,AV,"Cerro Almodóvar, parque (zona C.F. Yébenes)",Celtis australis,Poda de mantenimiento,3
+Latina,AV,"Cerro Almodóvar, parque (zona C.F. Yébenes)",Pinus sp,Poda de mantenimiento,14
+Latina,AV,"Cerro Almodóvar, parque (zona C.F. Yébenes)",Populus sp,Poda de mantenimiento,6
+Latina,AV,"Cerro Almodóvar, parque (zona C.F. Yébenes)",Robinia pseudoacacia,Poda de mantenimiento,8
+Latina,AV,"Cerro Almodóvar, parque (zona C.F. Yébenes)",Sophora japonica,Poda de mantenimiento,4
+Latina,AV,"Cerro Almodóvar, parque (zona C.F. Yébenes)",Ulmus pumila,Poda de rebaje,60
+Latina,AV,"Doña Mencía, calle",Ailanthus altissima,Poda de mantenimiento,1
+Latina,AV,"Doña Mencía, calle",Populus sp,Poda de mantenimiento,5
+Latina,AV,"Doña Mencía, calle",Ulmus pumila,Poda de rebaje,5
+Latina,AV,"Egabro, plaza",Populus sp,Poda de mantenimiento,1
+Latina,AV,"Egabro, plaza",Ulmus pumila,Poda de rebaje,3
+Latina,AV,"Extremadura (Latina), paseo",Catalpa bignonioides,Poda de mantenimiento,14
+Latina,AV,"Extremadura (Latina), paseo",Celtis australis,Poda de mantenimiento,56
+Latina,AV,"Extremadura (Latina), paseo",Ligustrum sp,Poda de mantenimiento,7
+Latina,AV,"Extremadura (Latina), paseo",Populus sp,Poda de mantenimiento,1
+Latina,AV,"Extremadura (Latina), paseo",Robinia pseudoacacia,Poda de mantenimiento,2
+Latina,AV,"Extremadura (Latina), paseo",Sophora japonica,Poda de mantenimiento,39
+Latina,AV,"Extremadura (Latina), paseo",Ulmus pumila,Poda de rebaje,160
+Latina,AV,"Fuenteovejuna, calle",Platanus x hybrida,Poda de mantenimiento,4
+Latina,AV,"Fuerte de Navidad, calle  c/v Maestra Justa Freire, calle",Ulmus pumila,Poda de rebaje,8
+Latina,AV,"Jarandilla, calle",Ulmus pumila,Poda de rebaje,6
+Latina,AV,"Laín Calvo, calle",Morus sp,Poda de mantenimiento,2
+Latina,AV,"Laín Calvo, calle",Sophora japonica,Poda de mantenimiento,2
+Latina,AV,"Laín Calvo, calle",Ulmus pumila,Poda de rebaje,6
+Latina,AV,"Navalmoral de la Mata, calle",Morus sp,Poda de mantenimiento,3
+Latina,AV,"Navalmoral de la Mata, calle",Sophora japonica,Poda de mantenimiento,11
+Latina,AV,"Navalmoral de la Mata, calle",Ulmus pumila,Poda de rebaje,1
+Latina,AV,"Poblados (Latina), avenida de los",Pinus sp,Poda de mantenimiento,16
+Latina,AV,"Poblados (Latina), avenida de los",Ulmus pumila,Poda de rebaje,19
+Latina,AV,"Pozoblanco, calle",Populus sp,Poda de mantenimiento,1
+Latina,AV,"Pozoblanco, calle",Ulmus pumila,Poda de rebaje,1
+Latina,AV,"Salorino, calle",Platanus x hybrida,Poda de mantenimiento,21
+Latina,AV,"San Conrado (Latina), calle",Sophora japonica,Poda de mantenimiento,19
+Latina,AV,"San Rufo, calle",Sophora japonica,Poda de mantenimiento,19
+Latina,AV,"Soledad Cazorla, 29 - 61, calle",Acer sp,Poda de mantenimiento,3
+Latina,AV,"Soledad Cazorla, 29 - 61, calle",Catalpa bignonioides,Poda de mantenimiento,11
+Latina,AV,"Soledad Cazorla, 29 - 61, calle",Cordyline sp,Poda de mantenimiento,4
+Latina,AV,"Soledad Cazorla, 29 - 61, calle",Elaeagnus angustifolia,Poda de mantenimiento,1
+Latina,AV,"Soledad Cazorla, 29 - 61, calle",Laurus sp,Poda de mantenimiento,1
+Latina,AV,"Soledad Cazorla, 29 - 61, calle",Ligustrum sp,Poda de mantenimiento,2
+Latina,AV,"Soledad Cazorla, 29 - 61, calle",Olea europaea,Poda de mantenimiento,2
+Latina,AV,"Soledad Cazorla, 29 - 61, calle",Prunus sp,Poda de mantenimiento,3
+Latina,AV,"Soledad Cazorla, 29 - 61, calle",Pyrus sp,Poda de mantenimiento,1
+Latina,AV,"Soledad Cazorla, 29 - 61, calle",Ulmus pumila,Poda de rebaje,13
+Carabanchel,ZV,"Camino Viejo de Leganés, 225",Robinia pseudoacacia,Poda de mantenimiento,3
+Carabanchel,ZV,"Camino Viejo de Leganés, 225",Ulmus pumila,Poda de mantenimiento,1
+Carabanchel,ZV,"Camino Viejo de Leganés, 225",Ulmus pumila,Poda de rebaje,5
+Carabanchel,ZV,"Diego Velázquez, colonia",Gleditsia triacanthos,Poda de mantenimiento,1
+Carabanchel,ZV,"Diego Velázquez, colonia",Ligustrum japonicum,Poda de mantenimiento,5
+Carabanchel,ZV,"Diego Velázquez, colonia",Robinia pseudoacacia,Poda de mantenimiento,1
+Carabanchel,ZV,"Diego Velázquez, colonia",Ulmus pumila,Poda de mantenimiento,61
+Carabanchel,ZV,"Diego Velázquez, colonia",Ulmus pumila,Poda de rebaje,41
+Carabanchel,ZV,Jacobeo - Camino de las Cruces,Robinia pseudoacacia,Poda de mantenimiento,5
+Carabanchel,ZV,Jacobeo - Camino de las Cruces,Ulmus pumila,Poda de mantenimiento,20
+Carabanchel,ZV,"Mercedes Arteaga, mediana",Acacia dealbata,Poda de mantenimiento,2
+Carabanchel,ZV,"Mercedes Arteaga, mediana",Acacia dealbata,Poda de rebaje,2
+Carabanchel,ZV,"Nuestra Señora de Valvanera, plaza",Arbutus unedo,Poda de mantenimiento,3
+Carabanchel,ZV,"Nuestra Señora de Valvanera, plaza",Celtis australis,Poda de mantenimiento,6
+Carabanchel,ZV,"Nuestra Señora de Valvanera, plaza",Ulmus pumila,Poda de mantenimiento,8
+Carabanchel,ZV,"Nuestra Señora de Valvanera, plaza",Ulmus pumila,Poda de rebaje,10
+Carabanchel,ZV,"Pan Bendito, UVA",Gleditsia triacanthos,Poda de mantenimiento,2
+Carabanchel,ZV,"Pan Bendito, UVA",Ulmus pumila,Poda de mantenimiento,1
+Carabanchel,ZV,"Pan Bendito, UVA",Ulmus pumila,Poda de rebaje,9
+Carabanchel,ZV,"Pan Bendito, UVA",Ulmus pumila,Tala peligroso,2
+Carabanchel,ZV,"Parque Eugenia de Montijo, colonia",Aesculus hippocastanum,Poda de mantenimiento,2
+Carabanchel,ZV,"Parque Eugenia de Montijo, colonia",Arbutus unedo,Poda de mantenimiento,2
+Carabanchel,ZV,"Parque Eugenia de Montijo, colonia",Cedrus deodara,Poda de mantenimiento,1
+Carabanchel,ZV,"Parque Eugenia de Montijo, colonia",Chamaecyparis lawsoniana,Poda de mantenimiento,4
+Carabanchel,ZV,"Parque Eugenia de Montijo, colonia",Ligustrum japonicum,Poda de mantenimiento,2
+Carabanchel,ZV,"Parque Eugenia de Montijo, colonia",Platanus x hybrida,Poda de mantenimiento,12
+Carabanchel,ZV,"Parque Eugenia de Montijo, colonia",Platanus x hybrida,Poda de rebaje,33
+Carabanchel,ZV,"Parque Eugenia de Montijo, colonia",Populus alba,Poda de mantenimiento,28
+Carabanchel,ZV,"Parque Eugenia de Montijo, colonia",Robinia pseudoacacia,Poda de mantenimiento,1
+Carabanchel,ZV,"Parque Eugenia de Montijo, colonia",Ulmus pumila,Poda de mantenimiento,1
+Carabanchel,ZV,"Parque Eugenia de Montijo, colonia",Ulmus pumila,Poda de rebaje,3
+Carabanchel,ZV,"Santa Rita, parque ",Celtis occidentalis,Poda de rebaje,1
+Carabanchel,ZV,"Sorbe, calle, zona verde",Celtis australis,Poda de mantenimiento,6
+Carabanchel,ZV,"Sorbe, calle, zona verde",Melia azedarach,Poda de mantenimiento,1
+Carabanchel,ZV,"Sorbe, calle, zona verde",PPrunus cerasifera pissardii,Poda de mantenimiento,5
+Carabanchel,ZV,"Sorbe, calle, zona verde",Ulmus pumila,Poda de mantenimiento,1
+Carabanchel,ZV,"Sorbe, calle, zona verde",Ulmus pumila,Poda de rebaje,22
+Carabanchel,ZV,"Valle de Oro, pasaje ",Cupressus arizonica,Poda de mantenimiento,1
+Carabanchel,ZV,"Valle de Oro, pasaje ",Populus alba,Poda de mantenimiento,3
+Carabanchel,ZV,"Valle de Oro, pasaje ",Prunus cerasifera,Poda de mantenimiento,1
+Carabanchel,ZV,"Valle de Oro, pasaje ",Prunus cerasifera pissardii,Poda de mantenimiento,9
+Carabanchel,ZV,"Valle de Oro, pasaje ",Prunus cerasifera pissardii,Tala seco,1
+Carabanchel,ZV,"Valle de Oro, pasaje ",Ulmus pumila,Poda de rebaje,9
+Carabanchel,AV,"Alondra, calle",Sophora japonica,Poda de mantenimiento,6
+Carabanchel,AV,"Alondra, calle",Sophora japonica,Tala descortezado,1
+Carabanchel,AV,"Antonio López (Carabanchel), calle",Platanus x hybrida,Poda de mantenimiento,21
+Carabanchel,AV,"Antonio López (Carabanchel), calle",Platanus x hybrida,Poda de rebaje,83
+Carabanchel,AV,"Antonio López (Carabanchel), calle",Platanus x hybrida,Tala seco,1
+Carabanchel,AV,"Avecilla, calle",Koelreuteria paniculata,Poda de mantenimiento,1
+Carabanchel,AV,"Avecilla, calle",Sophora japonica,Poda de mantenimiento,4
+Carabanchel,AV,Camino Viejo de Leganés,Ailanthus altissima,Poda de rebaje,1
+Carabanchel,AV,Camino Viejo de Leganés,Gleditsia triacanthos,Poda de rebaje,1
+Carabanchel,AV,Camino Viejo de Leganés,Ulmus pumila,Poda de mantenimiento,1
+Carabanchel,AV,Camino Viejo de Leganés,Ulmus pumila,Poda de rebaje,3
+Carabanchel,AV,"Castrogeriz, calle",Robinia pseudoacacia,Poda de rebaje,1
+Carabanchel,AV,"Castrogeriz, calle",Sophora japonica,Poda de mantenimiento,5
+Carabanchel,AV,"Castrogeriz, calle",Sophora japonica,Poda de rebaje,6
+Carabanchel,AV,"Clarisas, calle",Platanus x hybrida,Poda de rebaje,2
+Carabanchel,AV,"Clarisas, calle",Robinia pseudoacacia,Poda de mantenimiento,1
+Carabanchel,AV,"Clarisas, calle",Sophora japonica,Tala seco,1
+Carabanchel,AV,"Doctor Espina, calle",Sophora japonica,Poda de mantenimiento,1
+Carabanchel,AV,"Hilanderas, plaza",Robinia pseudoacacia,Poda de mantenimiento,1
+Carabanchel,AV,"Hilanderas, plaza",Ulmus pumila,Poda de mantenimiento,2
+Carabanchel,AV,"Hilanderas, plaza",Ulmus pumila,Poda de rebaje,9
+Carabanchel,AV,"Joaquín Martínez Borreguero, calle",Platanus x hybrida,Poda de mantenimiento,1
+Carabanchel,AV,"Joaquín Martínez Borreguero, calle",Platanus x hybrida,Poda de rebaje,2
+Carabanchel,AV,"Marcelino Camacho, paseo",Gleditsia triacanthos,Poda de mantenimiento,1
+Carabanchel,AV,"Marcelino Camacho, paseo",Gleditsia triacanthos,Poda de rebaje,1
+Carabanchel,AV,"Marcelino Camacho, paseo",Morus nigra,Poda de mantenimiento,2
+Carabanchel,AV,"Marcelino Camacho, paseo",Robinia pseudoacacia,Poda de mantenimiento,10
+Carabanchel,AV,"Marcelino Camacho, paseo",Robinia pseudoacacia,Tala seco,1
+Carabanchel,AV,"Marcelino Camacho, paseo",Sophora japonica,Poda de mantenimiento,35
+Carabanchel,AV,"Marcelino Camacho, paseo",Ulmus pumila,Poda de mantenimiento,3
+Carabanchel,AV,"Marcelino Camacho, paseo",Ulmus pumila,Poda de rebaje,7
+Carabanchel,AV,"Maríanistas, calle",Ulmus pumila,Poda de mantenimiento,6
+Carabanchel,AV,"Matilde Hernández, calle",Koelreuteria paniculata,Poda de mantenimiento,10
+Carabanchel,AV,"Matilde Hernández, calle",Platanus x hybrida,Poda de rebaje,5
+Carabanchel,AV,"Matilde Hernández, calle",Sophora japonica,Poda de mantenimiento,32
+Carabanchel,AV,"Matilde Hernández, calle",Sophora japonica,Poda de rebaje,4
+Carabanchel,AV,"Matilde Hernández, calle",Sophora japonica,Poda de rebaje,1
+Carabanchel,AV,"Matilde Hernández, calle",Ulmus pumila,Poda de mantenimiento,2
+Carabanchel,AV,"Meninas, plaza",Ulmus pumila,Poda de mantenimiento,17
+Carabanchel,AV,"Meninas, plaza",Ulmus pumila,Poda de rebaje,3
+Carabanchel,AV,"Mercedes Arteaga, calle",Morus nigra,Poda de mantenimiento,2
+Carabanchel,AV,"Mercedes Arteaga, calle",Morus nigra,Poda de rebaje,12
+Carabanchel,AV,"Mercedes Arteaga, calle",Morus nigra,Tala peligroso,2
+Carabanchel,AV,"Mercedes Arteaga, calle",Pyrus calleryana,Poda de mantenimiento,3
+Carabanchel,AV,"Mercedes Arteaga, calle",Pyrus communis,Poda de mantenimiento,2
+Carabanchel,AV,"Plaza de Toros, avenida",Robinia pseudoacacia,Poda de mantenimiento,3
+Carabanchel,AV,"Plaza de Toros, avenida",Sophora japonica,Poda de mantenimiento,34
+Carabanchel,AV,"Plaza de Toros, avenida",Ulmus pumila,Poda de rebaje,2
+Carabanchel,AV,"Rendición de Breda, plaza",Platanus x hybrida,Poda de mantenimiento,2
+Carabanchel,AV,"Rendición de Breda, plaza",Ulmus pumila,Poda de mantenimiento,6
+Carabanchel,AV,"Rendición de Breda, plaza",Ulmus pumila,Poda de rebaje,3
+Carabanchel,AV,"Roy, calle",Sophora japonica,Poda de mantenimiento,3
+Carabanchel,AV,"Saldanza, calle",Platanus x hybrida,Poda de rebaje,2
+Carabanchel,AV,"Saldanza, calle",Robinia pseudoacacia,Poda de mantenimiento,1
+Carabanchel,AV,"Saldanza, calle",Sophora japonica,Poda de mantenimiento,4
+Carabanchel,AV,"Santa Lucrecia, calle",Platanus x hybrida,Poda de mantenimiento,11
+Carabanchel,AV,"Santa Lucrecia, calle",Platanus x hybrida,Poda de rebaje,5
+Carabanchel,AV,"Sorbe, calle",Celtis australis,Poda de mantenimiento,8
+Carabanchel,AV,"Virgen de Belén, calle",Gleditsia triacanthos,Poda de rebaje,1
+Usera,ZV,"Albaicín, calle ",Juglans nigra,Poda de mantenimiento,1
+Usera,ZV,"Albaicín, calle ",Platanus x hybrida,Poda de mantenimiento,44
+Usera,ZV,"Albaicín, calle ",Populus alba bolleana,Poda de mantenimiento,1
+Usera,ZV,"Andalucía, avenida ",Ailanthus altissima,Poda de mantenimiento,1
+Usera,ZV,"Cristo de la Victoria, interbloques",Ligustrum japonicum,Poda de mantenimiento,3
+Usera,ZV,"Cristo de la Victoria, interbloques",Ligustrum japonicum,Poda de mantenimiento,76
+Usera,ZV,"Cristo de la Victoria, interbloques",Ligustrum japonicum,Poda de mantenimiento,1
+Usera,ZV,"Cristo de la Victoria, interbloques",Ligustrum lucidum,Poda de mantenimiento,31
+Usera,ZV,"Cristo de la Victoria, interbloques",Prunus cerasifera,Poda de mantenimiento,5
+Usera,ZV,"Cristo de la Victoria, interbloques",Prunus cerasifera,Poda de mantenimiento,34
+Usera,ZV,"Ichaso, pasillo",Acacia dealbata,Poda de mantenimiento,1
+Usera,ZV,"Ichaso, pasillo",Ulmus minor,Poda de rebaje,3
+Usera,ZV,"Ichaso, pasillo",Ulmus pumila,Poda de rebaje,3
+Usera,ZV,"Nivar, calle ",Fraxinus angustifolia,Poda de mantenimiento,2
+Usera,ZV,"Nivar, calle ",Platanus x hybrida,Poda de mantenimiento,46
+Usera,ZV,"Orcasitas, poblado dirigido ",Acer negundo,Poda de mantenimiento,1
+Usera,ZV,"Orcasitas, poblado dirigido ",Cupressus arizonica,Tala,1
+Usera,ZV,"Orcasitas, poblado dirigido ",Phoenix canariensis,Poda de mantenimiento,1
+Usera,ZV,"Orcasitas, poblado dirigido ",Platanus x hybrida,Poda de mantenimiento,30
+Usera,ZV,"Orcasitas, poblado dirigido ",Robinia pseudoacacia,Poda de mantenimiento,1
+Usera,ZV,"Orcasitas, poblado dirigido ",Ulmus minor,Poda de rebaje,2
+Usera,ZV,"Orcasitas, poblado dirigido ",Ulmus pumila,Poda de rebaje,8
+Usera,ZV,"Pradolongo, parque",Pinus pinea,Poda de mantenimiento,102
+Usera,ZV,"Pradolongo, parque",Ulmus pumila,Poda de rebaje,2
+Usera,ZV,"Sacromonte, calle",Platanus x hybrida,Poda de mantenimiento,46
+Usera,AV,"Andalucía (Usera), avenida",Celtis australis,Poda de mantenimiento,3
+Usera,AV,"Andalucía (Usera), avenida",Ulmus pumila,Poda de rebaje,21
+Usera,AV,"Antonio López, calle",Platanus x hybrida,Poda de mantenimiento,40
+Usera,AV,"Carmen Bruguera, calle",Celtis australis,Poda de mantenimiento,4
+Usera,AV,"Doctor Ferrán, calle",Platanus x hybrida,Poda de mantenimiento,20
+Usera,AV,"Fernando Ortiz, calle",Platanus x hybrida,Poda de mantenimiento,48
+Usera,AV,"General Marvá, calle",Platanus x hybrida,Poda de mantenimiento,32
+Usera,AV,"Goyeneche, calle",Platanus x hybrida,Poda de mantenimiento,18
+Usera,AV,"Ichaso, calle",Platanus x hybrida,Poda de mantenimiento,8
+Usera,AV,"Ichaso, calle",Ulmus minor,Poda de rebaje,1
+Usera,AV,"Ichaso, calle",Ulmus pumila,Poda de rebaje,20
+Usera,AV,"Juan Español, calle",Ligustrum japonicum,Poda de mantenimiento,5
+Usera,AV,"Silvina, calle",Ulmus pumila,Poda de rebaje,22
+Usera,AV,"Torero, calle",Melia azedarach,Poda de mantenimiento,7
+Usera,AV,"Torero, calle",Sophora japonica,Poda de mantenimiento,6
+Puente Vallecas,ZV,Empedrado Barros,Ulmus pumila,Poda de mantenimiento,1
+Puente Vallecas,ZV,"Entrevías - Pozo, parque",Catalpa bignonioides,Poda de mantenimiento,1
+Puente Vallecas,ZV,"Entrevías - Pozo, parque",Cedrus deodara,Poda de mantenimiento,28
+Puente Vallecas,ZV,"Entrevías - Pozo, parque",Cupressus sempervirens,Poda de mantenimiento,11
+Puente Vallecas,ZV,"Entrevías - Pozo, parque",Melia azedarach,Poda de mantenimiento,2
+Puente Vallecas,ZV,"Entrevías - Pozo, parque",Pinus pinea,Poda de mantenimiento,66
+Puente Vallecas,ZV,Martinez de la Riva,Melia azedarach,Poda de mantenimiento,2
+Puente Vallecas,ZV,Mohernando,Acer negundo,Poda de mantenimiento,7
+Puente Vallecas,ZV,Mohernando,Populus alba bolleana,Poda de mantenimiento,4
+Puente Vallecas,ZV,Mohernando,Prunus cerasifera pisardii,Poda de mantenimiento,1
+Puente Vallecas,ZV,Mohernando,Robinia pseudoacacia,Poda de mantenimiento,3
+Puente Vallecas,ZV,Mohernando,Ulmus pumila,Poda de mantenimiento,29
+Puente Vallecas,ZV,"Pablo Neruda - Sur, bulevar ",Platanus x hybrida,Poda de mantenimiento,77
+Puente Vallecas,ZV,"Palomeras Sureste - B, medianas y bulevares",Ailanthus altissima,Poda de mantenimiento,6
+Puente Vallecas,ZV,"Palomeras, parque",Platanus x hybrida,Poda de mantenimiento,5
+Puente Vallecas,ZV,Reguera de los Tomateros,Ulmus pumila,Poda de mantenimiento,8
+Puente Vallecas,ZV,"San Anselmo, plaza",Sophora japonica,Poda de mantenimiento,10
+Puente Vallecas,ZV,"Sur, ronda - Joaquín Garrigues Walker",Ligustrum vulgare,Poda de mantenimiento,2
+Puente Vallecas,ZV,"Sur, ronda - Joaquín Garrigues Walker",Prunus cerasifera pisardii,Poda de mantenimiento,1
+Puente Vallecas,ZV,"Sur, ronda - Joaquín Garrigues Walker",Prunus dulcis,Poda de mantenimiento,1
+Puente Vallecas,ZV,"Sur, ronda - Joaquín Garrigues Walker",Prunus laurocerasus,Poda de mantenimiento,1
+Puente Vallecas,ZV,"Sur, ronda - Joaquín Garrigues Walker",Prunus spp.,Poda de mantenimiento,2
+Puente Vallecas,ZV,"Sur, ronda - Joaquín Garrigues Walker",Ulmus pumila,Poda de mantenimiento,46
+Puente Vallecas,AV,"Albufera (Puente de Vallecas), avenida",Robinia pseudoacacia,Poda de mantenimiento,34
+Puente Vallecas,AV,"Albufera (Puente de Vallecas), avenida",Sophora japonica,Poda de mantenimiento,34
+Puente Vallecas,AV,"Albufera (Puente de Vallecas), avenida",Ulmus pumila,Poda de mantenimiento,11
+Puente Vallecas,AV,"Andaluces, calle",Ailanthus altissima,Poda de mantenimiento,1
+Puente Vallecas,AV,"Andaluces, calle",Robinia pseudoacacia,Poda de mantenimiento,1
+Puente Vallecas,AV,"Antonio Garisa, glorieta",Platanus x hybrida,Poda de mantenimiento,2
+Puente Vallecas,AV,"Barros, calle",Celtis australis,Poda de mantenimiento,2
+Puente Vallecas,AV,"Barros, calle",Celtis laevigata,Poda de mantenimiento,1
+Puente Vallecas,AV,"Barros, calle",Celtis occidentalis,Poda de mantenimiento,1
+Puente Vallecas,AV,"Barros, calle",Ulmus pumila,Poda de mantenimiento,79
+Puente Vallecas,AV,"Buenos Aires, avenida",Platanus x hybrida,Poda de mantenimiento,65
+Puente Vallecas,AV,"Buenos Aires, avenida",Robinia pseudoacacia,Poda de mantenimiento,1
+Puente Vallecas,AV,"Cabo de Tarifa, calle",Celtis australis,Poda de mantenimiento,1
+Puente Vallecas,AV,"Cabo de Tarifa, calle",Ulmus pumila,Poda de mantenimiento,12
+Puente Vallecas,AV,"Candilejas, calle",Platanus x hybrida,Poda de mantenimiento,60
+Puente Vallecas,AV,"Carlos Martín Álvarez, calle",Acer negundo,Poda de mantenimiento,1
+Puente Vallecas,AV,"Carlos Martín Álvarez, calle",Broussonetia papyrifera,Poda de mantenimiento,5
+Puente Vallecas,AV,"Carlos Martín Álvarez, calle",Melia azedarach,Poda de mantenimiento,4
+Puente Vallecas,AV,"Carlos Martín Álvarez, calle",Morus alba,Poda de mantenimiento,17
+Puente Vallecas,AV,"Carlos Martín Álvarez, calle",Morus nigra,Poda de mantenimiento,22
+Puente Vallecas,AV,"Carlos Martín Álvarez, calle",Robinia pseudoacacia,Poda de mantenimiento,3
+Puente Vallecas,AV,"Cenicienta, calle",Platanus x hybrida,Poda de mantenimiento,2
+Puente Vallecas,AV,"Diligencia, calle",Platanus x hybrida,Poda de mantenimiento,2
+Puente Vallecas,AV,"El Padrino, calle",Gleditsia triacanthos,Poda de mantenimiento,4
+Puente Vallecas,AV,"Esteban Carros, calle",Ulmus pumila,Poda de mantenimiento,1
+Puente Vallecas,AV,"Glorietas, avenida",Ulmus pumila,Poda de mantenimiento,10
+Puente Vallecas,AV,"Lele del Pozo, calle",Ulmus pumila,Poda de mantenimiento,21
+Puente Vallecas,AV,"Pablo Neruda (Puente de Vallecas), avenida",Platanus x hybrida,Poda de mantenimiento,120
+Puente Vallecas,AV,"Pablo Neruda (Puente de Vallecas), avenida",Populus alba bolleana,Poda de mantenimiento,1
+Puente Vallecas,AV,"Padre Llanos, avenida",Platanus x hybrida,Poda de mantenimiento,60
+Puente Vallecas,AV,"Palomeras, avenida",Platanus x hybrida,Poda de mantenimiento,1
+Puente Vallecas,AV,"Pedro Laborde, calle",Platanus x hybrida,Poda de mantenimiento,1
+Puente Vallecas,AV,"Rafael Alberti, avenida",Acer negundo,Poda de mantenimiento,5
+Puente Vallecas,AV,"Rafael Alberti, avenida",Acer platanoides,Poda de mantenimiento,2
+Puente Vallecas,AV,"Rafael Alberti, avenida",Ailanthus altissima,Poda de mantenimiento,32
+Puente Vallecas,AV,"Rafael Alberti, avenida",Gleditsia triacanthos inermis,Poda de mantenimiento,5
+Puente Vallecas,AV,"Reguera de Tomateros, calle",Platanus x hybrida,Poda de mantenimiento,59
+Puente Vallecas,AV,"Romeo y Julieta, calle",Robinia pseudoacacia,Poda de mantenimiento,2
+Puente Vallecas,AV,"Santos Inocentes, calle",Robinia pseudoacacia,Poda de mantenimiento,2
+Puente Vallecas,AV,"Serena, calle",Celtis australis,Poda de mantenimiento,10
+Puente Vallecas,AV,"Serena, calle",Celtis occidentalis,Poda de mantenimiento,6
+Puente Vallecas,AV,"Serena, calle",Platanus x hybrida,Poda de mantenimiento,2
+Puente Vallecas,AV,"Serena, calle",Ulmus pumila,Poda de mantenimiento,56
+Puente Vallecas,AV,"Sur, ronda",Ulmus pumila,Poda de mantenimiento,5
+Puente Vallecas,AV,"Tristana, calle",Robinia pseudoacacia,Poda de mantenimiento,3
+Puente Vallecas,AV,"Violetera, calle",Robinia pseudoacacia,Poda de mantenimiento,2
+Puente Vallecas,AV,"Viridiana, calle",Robinia pseudoacacia,Poda de mantenimiento,1
+Moratalaz,ZV,"Barrios II, III y VI de Moratalaz",Cedrus deodara,Poda de mantenimiento,4
+Moratalaz,ZV,"Barrios II, III y VI de Moratalaz",Celtis australis,Poda de mantenimiento,46
+Moratalaz,ZV,"Barrios II, III y VI de Moratalaz",Platanus x hybrida,Poda de mantenimiento,103
+Moratalaz,ZV,"Barrios II, III y VI de Moratalaz",Populus alba,Poda de mantenimiento,4
+Moratalaz,ZV,"Barrios II, III y VI de Moratalaz",Prunus cerasifera pisardii,Poda de mantenimiento,11
+Moratalaz,ZV,"Los Pinos, parque de",Populus alba,Poda de mantenimiento,32
+Moratalaz,ZV,"Los Pinos, parque de",Populus alba bolleana,Poda de mantenimiento,75
+Moratalaz,AV,"Antonio Cumella, calle",Platanus x hybrida,Poda de mantenimiento,222
+Moratalaz,AV,"Camino de los Vinateros, calle",Ulmus pumila,Poda de mantenimiento,14
+Moratalaz,AV,"Encomienda de Palacios, calle",Platanus x hybrida,Poda de mantenimiento,9
+Moratalaz,AV,"Encomienda de Palacios, calle",Ulmus minor,Poda de mantenimiento,1
+Moratalaz,AV,"Encomienda de Palacios, calle",Ulmus pumila,Poda de mantenimiento,38
+Moratalaz,AV,"Luis de Hoyos Sainz, calle",Acer campestre,Poda de mantenimiento,2
+Moratalaz,AV,"Luis de Hoyos Sainz, calle",Celtis australis,Poda de mantenimiento,8
+Moratalaz,AV,"Luis de Hoyos Sainz, calle",Celtis occidentalis,Poda de mantenimiento,43
+Moratalaz,AV,"Luis de Hoyos Sainz, calle",Ulmus minor,Poda de mantenimiento,2
+Moratalaz,AV,"Luis de Hoyos Sainz, calle",Ulmus pumila,Poda de mantenimiento,19
+Ciudad Lineal,ZV,Colonia San Juan Bautista,Varias especies,Poda de mantenimiento,328
+Ciudad Lineal,ZV,Interbloques de elipa Sur y elipa Norte,Ulmus pumila,Poda de mantenimiento,163
+Ciudad Lineal,ZV,"Parque Florí, ábalos, calle",Ulmus pumila,Poda de mantenimiento,23
+Ciudad Lineal,ZV,"Tilos, parque de los",Ulmus pumila,Poda de mantenimiento,40
+Ciudad Lineal,AV,"Agastia, calle. Colonia San Juan Bautista",Varias especies,Poda de mantenimiento,30
+Ciudad Lineal,AV,"Alcalde López Casero, calle","Sophora japonica, Ulmus pumila…",Poda de mantenimiento,32
+Ciudad Lineal,AV,"Ascao, calle",Varias especies,Poda de mantenimiento,100
+Ciudad Lineal,AV,"Cidamón, calle. Colonia San Juan Bautista",Varias especies,Poda de mantenimiento,10
+Ciudad Lineal,AV,"Cyesa, calle","Ulmus pumila, Celtis australis…",Poda de mantenimiento,34
+Ciudad Lineal,AV,"Emilio Vargas, calle",Ulmus pumila,Poda de mantenimiento,9
+Ciudad Lineal,AV,"Institución Libre de Enseñanza, avenida",Ulmus pumila,Poda de mantenimiento,12
+Ciudad Lineal,AV,"Luis Campos, calle","Ulmus pumila, Celtis australis…",Poda de mantenimiento,37
+Ciudad Lineal,AV,"Luis Ruiz, calle","Ulmus pumila, Celtis australis, Morus alba…",Poda de mantenimiento,135
+Ciudad Lineal,AV,"Manuel María Iglesias, calle","Ulmus pumila, Celtis australis…",Poda de mantenimiento,43
+Ciudad Lineal,AV,"Martínez Villergas, calle",Ulmus pumila,Poda de mantenimiento,10
+Ciudad Lineal,AV,"Treviana, calle",Ulmus pumila,Poda de mantenimiento,4
+Ciudad Lineal,AV,"Virgen del Sagrario, calle",Platanus x hybrida,Poda de mantenimiento,40
+Hortaleza,ZV,Conector Antonio Miró Valverde,Morus alba 'Fruitless',Poda de mantenimiento,78
+Hortaleza,ZV,Conector Jordí Solé Tura,Morus alba 'Fruitless',Poda de mantenimiento,74
+Hortaleza,ZV,"Gomeznarro, Parque","Populus alba, Gleditsia triacanthos y Acer negundo",Poda de mantenimiento,33
+Hortaleza,ZV,José Álvarez de Toledo,Pinus pinea,Poda de mantenimiento,13
+Hortaleza,ZV,Junta Municipal de Hortaleza - Palacete Villa Rosa,Pinus pinea,Poda de mantenimiento,8
+Hortaleza,ZV,"Los Llanos, Parque ",Varias especies,Poda de mantenimiento,139
+Hortaleza,ZV,"Princesa de Éboli, calle",Robinia hispida,Poda de mantenimiento,50
+Hortaleza,ZV,"Princesa de Éboli, mediana",Sophora japonica,Poda de mantenimiento,82
+Hortaleza,AV,"Ana de Austria, calle",Ulmus pumila,Poda de mantenimiento,53
+Hortaleza,AV,"Balaguer, calle",Varias especies,Poda de mantenimiento,12
+Hortaleza,AV,"Borjas Blancas, calle",Varias especies,Poda de mantenimiento,19
+Hortaleza,AV,"Canillas, carretera",Ulmus pumila,Poda de mantenimiento,34
+Hortaleza,AV,"Cervera, calle",Varias especies,Poda de mantenimiento,28
+Hortaleza,AV,"Gomeznarro,calle",Pinus pinea,Poda de mantenimiento,22
+Hortaleza,AV,"Julio Cano Lasso, calle",Gleditsia triacanthos,Poda de mantenimiento,142
+Hortaleza,AV,"López de Hoyos, calle",Platanus x hybrida,Poda de mantenimiento,14
+Hortaleza,AV,"Manuel Uribe, calle",Sophora japonica,Poda de mantenimiento,33
+Hortaleza,AV,"Oliana, calle",Varias especies,Poda de mantenimiento,8
+Hortaleza,AV,"Princesa de Éboli, calle",Sophora japonica,Poda de mantenimiento,61
+Hortaleza,AV,"Tiberiades, calle",Platanus x hybrida,Poda de mantenimiento,18
+Hortaleza,AV,"Virgen del Carmen, avenida",Varias especies,Poda de mantenimiento,45
+Villaverde,ZV,Alcocer - Arechavaleta,Robinia pseudoacacia,Poda de rebaje,2
+Villaverde,ZV,Alcocer - Arechavaleta,Ulmus pumila,Poda de rebaje,17
+Villaverde,ZV,"Andalucía, avenida - Ciudadanía",Ulmus pumila,Poda de rebaje,2
+Villaverde,ZV,"Canción del Olvido - Ingenieros, interbloques",Celtis australis,Poda de mantenimiento,6
+Villaverde,ZV,"Canción del Olvido - Ingenieros, interbloques",Melia azedarach,Poda de mantenimiento,16
+Villaverde,ZV,"Canción del Olvido - Ingenieros, interbloques",Robinia pseudoacacia,Poda de rebaje,9
+Villaverde,ZV,"Felicidad, avenida",Fraxinus sp,Poda de mantenimiento,48
+Villaverde,ZV,"Gigantes y Cabezudos - La Dolorosa, interbloques",Catalpa bignonioides,Poda de mantenimiento,31
+Villaverde,ZV,"Gigantes y Cabezudos - La Dolorosa, interbloques",Morus alba,Poda de mantenimiento,6
+Villaverde,ZV,"Gigantes y Cabezudos - La Dolorosa, interbloques",Pinus halepensis,Poda de mantenimiento,3
+Villaverde,ZV,"Gigantes y Cabezudos - La Dolorosa, interbloques",Populus alba bolleana,Poda de mantenimiento,12
+Villaverde,ZV,"Gigantes y Cabezudos - La Dolorosa, interbloques",Sophora japonica,Poda de rebaje,5
+Villaverde,ZV,"Gigantes y Cabezudos - La Dolorosa, interbloques",Ulmus pumila,Poda de rebaje,60
+Villaverde,ZV,"Litos, colonia ",Ailanthus altissima,Poda de mantenimiento,1
+Villaverde,ZV,"Litos, colonia ",Robinia pseudoacacia,Poda de rebaje,3
+Villaverde,ZV,"Litos, colonia ",Salix babylonica,Poda de mantenimiento,1
+Villaverde,ZV,"Litos, colonia ",Ulmus pumila,Poda de rebaje,27
+Villaverde,ZV,"Rocafort, 72-78, calle",Platanus x hybrida,Poda de rebaje,18
+Villaverde,ZV,"Santiago, vado",Aesculus hippocastanum,Poda de mantenimiento,22
+Villaverde,ZV,"Santiago, vado",Celtis australis,Poda de mantenimiento,20
+Villaverde,ZV,"Villajoyosa, calle",Ulmus pumila,Poda de rebaje,5
+Villaverde,AV,"Afecto, calle",Melia azedarach,Poda de mantenimiento,89
+Villaverde,AV,"Anoeta, calle - Gigantes y Cabezudos",Celtis australis,Poda de mantenimiento,7
+Villaverde,AV,"Anoeta, calle - Gigantes y Cabezudos",Ulmus pumila,Poda de rebaje,8
+Villaverde,AV,"Anoeta, calle - Hermandad - Manojo de Rosas",Ulmus pumila,Poda de rebaje,85
+Villaverde,AV,"Cobalto, calle",Acer negundo,Poda de mantenimiento,1
+Villaverde,AV,"Cobalto, calle",Morus nigra,Poda de mantenimiento,1
+Villaverde,AV,"Cobalto, calle",Platanus x hybrida,Poda de rebaje,17
+Villaverde,AV,"Cobalto, calle",Robinia pseudoacacia,Poda de rebaje,5
+Villaverde,AV,"Diamante, calle",Ligustrum japonicum,Poda de mantenimiento,2
+Villaverde,AV,"Diamante, calle",Platanus x hybrida,Poda de rebaje,33
+Villaverde,AV,"Diamante, calle",Prunus pisardii,Poda de mantenimiento,2
+Villaverde,AV,"Gigantes y Cabezudos, paseo",Acer negundo,Poda de mantenimiento,1
+Villaverde,AV,"Gigantes y Cabezudos, paseo",Celtis australis,Poda de mantenimiento,8
+Villaverde,AV,"Gigantes y Cabezudos, paseo",Hibiscus syriacus,Poda de mantenimiento,1
+Villaverde,AV,"Gigantes y Cabezudos, paseo",Olea europaea,Poda de mantenimiento,1
+Villaverde,AV,"Gigantes y Cabezudos, paseo",Populus sp,Poda de mantenimiento,22
+Villaverde,AV,"Gigantes y Cabezudos, paseo",Prunus armeniaca,Poda de mantenimiento,1
+Villaverde,AV,"Gigantes y Cabezudos, paseo",Robinia pseudoacacia,Poda de rebaje,2
+Villaverde,AV,"Gigantes y Cabezudos, paseo",Ulmus pumila,Poda de rebaje,75
+Villaverde,AV,"Santiago, vado",Platanus x hybrida,Poda de rebaje,11
+Villaverde,AV,"Villalonso, calle",Ulmus pumila,Poda de rebaje,27
+Villa de Vallecas,ZV,"Autovía A-3, margen derechho",Ulmus pumila,Poda de mantenimiento,187
+Villa de Vallecas,ZV,Puerto Porzuna,Pinus pinea,Poda de mantenimiento,1
+Villa de Vallecas,ZV,"San Jaime, laterales",Ulmus pumila,Poda de mantenimiento,4
+Villa de Vallecas,ZV,Zazuar - Virgen de las Viñas,Robinia pseudoacacia,Poda de mantenimiento,1
+Villa de Vallecas,ZV,Zazuar - Virgen de las Viñas,Ulmus pumila,Poda de mantenimiento,44
+Villa de Vallecas,AV,"Enrique García Álvarez, calle",Ulmus pumila,Poda de mantenimiento,1
+Villa de Vallecas,AV,"Felipe Álvarez, calle",Celtis australis,Poda de mantenimiento,1
+Villa de Vallecas,AV,"Felipe Álvarez, calle",Ulmus pumila,Poda de mantenimiento,8
+Villa de Vallecas,AV,"Fuentidueña, calle",Acer pseudoplatanus,Poda de mantenimiento,3
+Villa de Vallecas,AV,"Fuentidueña, calle",Celtis australis,Poda de mantenimiento,21
+Villa de Vallecas,AV,"Fuentidueña, calle",Morus nigra,Poda de mantenimiento,1
+Villa de Vallecas,AV,"Fuentidueña, calle",Pinus nigra,Poda de mantenimiento,2
+Villa de Vallecas,AV,"Fuentidueña, calle",Populus x canadensis,Poda de mantenimiento,1
+Villa de Vallecas,AV,"Fuentidueña, calle",Robinia pseudoacacia,Poda de mantenimiento,4
+Villa de Vallecas,AV,"Fuentidueña, calle",Ulmus pumila,Poda de mantenimiento,10
+Villa de Vallecas,AV,"La Gavia, avenida",Ceratonia siliqua,Poda de mantenimiento,3
+Villa de Vallecas,AV,"La Gavia, avenida",Platanus x hybrida,Poda de mantenimiento,86
+Villa de Vallecas,AV,"La Gavia, avenida",Robinia pseudoacacia,Poda de mantenimiento,2
+Villa de Vallecas,AV,"Puerto de Porzuna, calle",Celtis australis,Poda de mantenimiento,2
+Villa de Vallecas,AV,"Puerto de Porzuna, calle",Celtis australis,Poda de mantenimiento,1
+Villa de Vallecas,AV,"Puerto de Porzuna, calle",Gleditsia triacanthos,Poda de mantenimiento,53
+Villa de Vallecas,AV,"Puerto de Porzuna, calle",Ligustrum japonicum,Poda de mantenimiento,2
+Villa de Vallecas,AV,"Puerto de Porzuna, calle",Morus alba,Poda de mantenimiento,1
+Villa de Vallecas,AV,"Puerto de Porzuna, calle",Pinus nigra,Poda de mantenimiento,2
+Villa de Vallecas,AV,"Puerto de Porzuna, calle",Populus alba bolleana,Poda de mantenimiento,5
+Villa de Vallecas,AV,"Puerto de Porzuna, calle",Robinia pseudoacacia,Poda de mantenimiento,30
+Villa de Vallecas,AV,"Puerto de Porzuna, calle",Sophora japonica,Poda de mantenimiento,6
+Villa de Vallecas,AV,"Puerto de Porzuna, calle",Ulmus pumila,Poda de mantenimiento,6
+Villa de Vallecas,AV,"San Jaime, calle",Acer campestre,Poda de mantenimiento,3
+Villa de Vallecas,AV,"San Jaime, calle",Celtis australis,Poda de mantenimiento,11
+Villa de Vallecas,AV,"San Jaime, calle",Celtis occidentalis,Poda de mantenimiento,1
+Villa de Vallecas,AV,"San Jaime, calle",Fraxinus excelsior,Tala deficiente,4
+Villa de Vallecas,AV,"San Jaime, calle",Malus communis,Poda de mantenimiento,1
+Villa de Vallecas,AV,"San Jaime, calle",Ulmus pumila,Poda de mantenimiento,6
+Vicálvaro,ZV,"Anillo Verde de Vicálvaro, zona forestal",Pinus pinea,Poda de mantenimiento,82
+Vicálvaro,ZV,"Artilleros, 2-10, paseo",Acer negundo,Poda de mantenimiento,6
+Vicálvaro,ZV,"Artilleros, 2-10, paseo",Eleagnus angustifolia,Poda de mantenimiento,3
+Vicálvaro,ZV,"Artilleros, 2-10, paseo",Fraxinus excelsior,Poda de mantenimiento,1
+Vicálvaro,ZV,"Artilleros, 2-10, paseo",Pinus pinea,Poda de mantenimiento,6
+Vicálvaro,ZV,"Artilleros, 2-10, paseo",Platanus orientalis,Poda de mantenimiento,1
+Vicálvaro,ZV,"Artilleros, 2-10, paseo",Robinia pseudoacacia,Poda de mantenimiento,6
+Vicálvaro,ZV,"Artilleros, 2-10, paseo",Ulmus pumila,Poda de mantenimiento,17
+Vicálvaro,ZV,"El Madroño, centro cultural",Ligustrum japonicum,Poda de mantenimiento,10
+Vicálvaro,ZV,"El Madroño, centro cultural",Platanus x hybrida,Poda de mantenimiento,10
+Vicálvaro,ZV,"Gallo, 15",Acer negundo,Poda de mantenimiento,21
+Vicálvaro,ZV,"Gallo, 15",Olea europaea,Poda de mantenimiento,1
+Vicálvaro,AV,"Calahorra, calle",Ligustrum japonicum,Poda de mantenimiento,1
+Vicálvaro,AV,"Caliza, calle",Platanus x hybrida,Poda de mantenimiento,1
+Vicálvaro,AV,"Campo de la Torre, calle",Platanus x hybrida,Poda de mantenimiento,5
+Vicálvaro,AV,"Comunidades, avenida",Platanus x hybrida,Poda de mantenimiento,3
+Vicálvaro,AV,"Dehesa de Vicálvaro, calle",Platanus x hybrida,Poda de mantenimiento,4
+Vicálvaro,AV,"Gallo, calle",Platanus x hybrida,Poda de mantenimiento,2
+Vicálvaro,AV,"Gran Vía del Este, avenida",Broussonetia papyrifera,Poda de mantenimiento,26
+Vicálvaro,AV,"Gran Vía del Este, avenida",Morus alba,Poda de mantenimiento,88
+Vicálvaro,AV,"Herce, calle",Ligustrum japonicum,Poda de mantenimiento,2
+Vicálvaro,AV,"Herce, calle",Platanus x hybrida,Poda de mantenimiento,29
+Vicálvaro,AV,"Minerva, calle",Morus alba,Poda de mantenimiento,1
+Vicálvaro,AV,"Minerva, calle",Platanus x hybrida,Poda de mantenimiento,139
+Vicálvaro,AV,"Minerva, calle",Sophora japonica,Poda de mantenimiento,4
+Vicálvaro,AV,"Minerva, calle",Ulmus pumila,Poda de mantenimiento,3
+Vicálvaro,AV,"Molino Viejo, calle",Platanus x hybrida,Poda de mantenimiento,3
+Vicálvaro,AV,"Titanio, calle",Platanus x hybrida,Poda de mantenimiento,4
+San Blas - Canillejas,ZV,"Ajofrín, parcela",Pinus pinea,Poda de mantenimiento,16
+San Blas - Canillejas,ZV,"Ajofrín, parcela",Platanus x hybrida,Poda de mantenimiento,10
+San Blas - Canillejas,ZV,"Ajofrín, parcela",Ulmus sp,Poda de mantenimiento,22
+San Blas - Canillejas,ZV,"Albaida, parcela",Ulmus pumila,Poda de mantenimiento,5
+San Blas - Canillejas,ZV,"Albericia, parcela",Ulmus pumila,Poda de mantenimiento,13
+San Blas - Canillejas,ZV,"Aparejadores, parcela",Platanus x hybrida,Poda de mantenimiento,20
+San Blas - Canillejas,ZV,"Aparejadores, parcela",Ulmus sp,Poda de mantenimiento,6
+San Blas - Canillejas,ZV,"Arcentales, avenida (mediana)",Pinus pinea,Poda de mantenimiento,30
+San Blas - Canillejas,ZV,"Arcentales, avenida (mediana)",Ulmus sp,Poda de mantenimiento,3
+San Blas - Canillejas,ZV,Canal Bósforo - Esfinge,Elaeagnus angustifolia,Poda de mantenimiento,1
+San Blas - Canillejas,ZV,Cuartel de Las Musas,Pinus pinea,Poda de mantenimiento,4
+San Blas - Canillejas,ZV,"Fuentes Claras, plaza",Ulmus sp,Poda de mantenimiento,23
+San Blas - Canillejas,ZV,"López de Aranda, Parque - Miami",Gleditsia triacanthos,Poda de mantenimiento,30
+San Blas - Canillejas,ZV,"López de Aranda, Parque - Miami",Pinus pinea,Poda de mantenimiento,20
+San Blas - Canillejas,ZV,Marquesa de Santa Marta,Platanus x hybrida,Poda de mantenimiento,40
+San Blas - Canillejas,ZV,"Niza, avenida - Suecia",Tilia sp,Poda de mantenimiento,15
+San Blas - Canillejas,ZV,"Pañería, parcela",Platanus x hybrida,Poda de mantenimiento,27
+San Blas - Canillejas,ZV,Parque Marsella - Toscana,Pinus pinea,Poda de mantenimiento,9
+San Blas - Canillejas,ZV,Parque Marsella - Toscana,Platanus x hybrida,Poda de mantenimiento,20
+San Blas - Canillejas,ZV,"San Román del Valle, parcela",Ulmus sp,Poda de mantenimiento,30
+San Blas - Canillejas,ZV,"UVA Canillejas, zona forestal",Platanus x hybrida,Poda de mantenimiento,15
+San Blas - Canillejas,ZV,"UVA Canillejas, zona forestal",Robinia pseudoaacia,Poda de mantenimiento,10
+San Blas - Canillejas,ZV,"UVA Canillejas, zona forestal",Ulmus sp,Poda de mantenimiento,5
+San Blas - Canillejas,AV,"Antioquía, calle",Celtis australis,Poda de mantenimiento,21
+San Blas - Canillejas,AV,"Gascueña, calle",Ulmus pumila,Poda de mantenimiento,8
+San Blas - Canillejas,AV,"Hellín, avenida",Platanus x hybrida,Poda de mantenimiento,126
+San Blas - Canillejas,AV,"Julia Gacia Boután, calle",Ulmus pumila,Poda de mantenimiento,42
+San Blas - Canillejas,AV,"Lucano, calle",Celtis australis,Poda de mantenimiento,9
+San Blas - Canillejas,AV,"Lucano, calle",Ulmus pumila,Poda de mantenimiento,5
+San Blas - Canillejas,AV,"Miguel Yuste, calle",Ulmus pumila,Poda de mantenimiento,14
+San Blas - Canillejas,AV,"Pañería, calle",Platanus x hybrida,Poda de mantenimiento,33
+San Blas - Canillejas,AV,"Tejedores, calle",Platanus x hybrida,Poda de mantenimiento,22
+Barajas,ZV,Bergantín,Acacia dealbata,Poda de mantenimiento,4
+Barajas,ZV,Bergantín,Morus alba,Poda de mantenimiento,1
+Barajas,ZV,Bergantín,Platanus x hybrida,Poda de mantenimiento,3
+Barajas,ZV,Bergantín,Ulmus minor,Poda de mantenimiento,2
+Barajas,ZV,"Ermita de la Virgen de la Soledad, glorieta",Pinus pinea,Poda de mantenimiento,9
+Barajas,ZV,"Ermita de la Virgen de la Soledad, glorieta",Quercus ilex,Poda de mantenimiento,2
+Barajas,ZV,"Ermita de la Virgen de la Soledad, glorieta",Ulmus pumila,Poda de mantenimiento,1
+Barajas,ZV,"Logroño, avenida - Los Coronales",Platanus x hybrida,Poda de mantenimiento,7
+Barajas,ZV,"Los Coronales, zona ajardinada",Platanus x hybrida,Poda de mantenimiento,24
+Barajas,ZV,"Pajarones, plaza (isleta)",Platanus x hybrida,Poda de mantenimiento,3
+Barajas,AV,"Aeronave, calle",Ulmus pumila,Poda de mantenimiento,1
+Barajas,AV,"Bergantín, calle",Platanus x hybrida,Poda de mantenimiento,143
+Barajas,AV,"Cantabria, avenida",Morus alba,Poda de mantenimiento,5
+Barajas,AV,"Consejo de Europa, avenida",Platanus x hybrida,Poda de mantenimiento,42
