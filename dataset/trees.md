@@ -23,7 +23,7 @@ The dataset contains all the trees managed by the Municipality, excluding trees 
 <br/><br/>
 You can obtain the dataset in csv format with the coordinates in latitude and longitude in WGS84 (epsg:4326) by downloading the file
 * [trees_madrid.zip](https://challenge.greemta.eu/data/green/trees_madrid.zip) (61Mb) (last update 28/11/2020).
-* [https://challenge.greemta.eu/data/green/tree_grates.zip](tree_grates.zip) (last update 28/11/2020).
+* [tree_grates.zip](https://challenge.greemta.eu/data/green/tree_grates.zip) (last update 28/11/2020).
 
 
 note<br/>
