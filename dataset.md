@@ -15,6 +15,7 @@ You are invited to use additional and different datasets if you think they will 
 We have prepared the following datasets:
 * [trees](trees)
 * [green areas](greenareas)
+* [normalized vegetation index](ndvi)
 
 Datasets which might be used as support for your investigations:
 * [administrative divisions of the city](administrativeunits)
