@@ -5,9 +5,7 @@ description: Green Areas
 ---
 Madrid is a very green city.
 
-
 Among the cartographic data made available by the Municipality of Madrid there are the green areas for each district.
-
 
 You can find the data on this page
 [Cartografía municipal por distritos a escala 1: 1000, SHP format, ETRS89](https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=a4f36d34fa86c410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
@@ -24,8 +22,7 @@ original file: *11_zona_ajardinada_sobre_patio_p.shp*<br/>
 description: *garden area on courtyard*
 
 Attention:<br/>
-this data contains only the polygonal areas without any attributes
-
+the data of the garden areas contain only the polygonal without any attributes
 
 
 The data is open data and is licensed under these conditions<br/>
