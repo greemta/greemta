@@ -40,4 +40,4 @@ See [the prizes](https://challenge.greemta.eu/prizes/).
 
 In this page we summarized the main rules.
 
-However, when you submit, you will be asked to read and agree with the complete rules which you can find in the [PDF document "Rules of competition"](https://challenge.greemta.eu/GreeMta_Rules_of_Competition.pdf).
+However, when you submit, you will be asked to read and agree with the complete rules which you can find in the [PDF document "Rules of competition"](rules_of_competition_greemta_challenge.pdf).
