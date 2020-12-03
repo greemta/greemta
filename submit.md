@@ -20,7 +20,6 @@ By pre-registering, you can ask us any question about the challenge and we will 
 by filling this form you can submit your project
 
 <div class="container" id="ff-compose"></div>
-<div class="container" id="ff-compose"></div>
 <script async defer src="https://formfacade.com/include/105204658335877613693/form/1FAIpQLSfOCXrXW5w4u7gidhrTAiK7jzs7C98mpqSSh6colkPDYg8Vcg/bootstrap.js?div=ff-compose"></script>
 
 

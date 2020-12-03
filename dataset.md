@@ -31,7 +31,10 @@ The general conditions allow the reuse of data for commercial and non-commercial
 
 Some pointers to other resources where you might find more datasets or inspirations:
 
-* The [open data portal of Madrid](https://datos.madrid.es/portal/site/egob/) (in Spanish, "Portal de datos abiertos del Ayuntamiento de Madrid").
-* [Geoportal of Madrid](https://geoportal.madrid.es/IDEAM_WBGEOPORTAL/visor_ide.iam)
-* [ArcGis server of Madrid](https://www.arcgis.com/home/webmap/viewer.html?featurecollection=https%3A%2F%2Fsigma.madrid.es%2Farcgismalla%2Frest%2Fservices%3Ff%3Djson%26option%3Dfootprints&supportsProjection=true&supportsJSONP=true) (see also the [ArcGis Rest service directory](http://sigma.madrid.es/arcgismalla/rest/services))
-* [Map of the trees of Madrid](http://www-2.munimadrid.es/DGPVE_WUAUA/welcome.do) (in Spanish, "Un alcorque, un árbol. Madrid más verde"). This is the official map of Madrid to see the data about the trees.
+The [open data portal of Madrid](https://datos.madrid.es/portal/site/egob/) (in Spanish, "Portal de datos abiertos del Ayuntamiento de Madrid").
+
+[Geoportal of Madrid](https://geoportal.madrid.es/IDEAM_WBGEOPORTAL/index.iam)
+
+[ArcGis server of Madrid](https://www.arcgis.com/home/webmap/viewer.html?featurecollection=https%3A%2F%2Fsigma.madrid.es%2Farcgismalla%2Frest%2Fservices%3Ff%3Djson%26option%3Dfootprints&supportsProjection=true&supportsJSONP=true) (see also the [ArcGis Rest service directory](http://sigma.madrid.es/arcgismalla/rest/services))
+
+[Map of the trees of Madrid](http://www-2.munimadrid.es/DGPVE_WUAUA/welcome.do) (in Spanish, "Un alcorque, un árbol. Madrid más verde"). This is the official map of Madrid to see the data about the trees.
