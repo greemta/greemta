@@ -33,5 +33,7 @@ Some pointers to other resources where you might find more datasets or inspirati
 
 * The [open data portal of Madrid](https://datos.madrid.es/portal/site/egob/) (in Spanish, "Portal de datos abiertos del Ayuntamiento de Madrid").
 * [Geoportal of Madrid](https://geoportal.madrid.es/IDEAM_WBGEOPORTAL/visor_ide.iam)
-* [ArcGis server of Madrid](https://www.arcgis.com/home/webmap/viewer.html?featurecollection=https%3A%2F%2Fsigma.madrid.es%2Farcgismalla%2Frest%2Fservices%3Ff%3Djson%26option%3Dfootprints&supportsProjection=true&supportsJSONP=true) (see also the [ArcGis Rest service directory](http://sigma.madrid.es/arcgismalla/rest/services))
+* [ArcGis server of Madrid](https://www.arcgis.com/home/webmap/viewer.html?featurecollection=https%3A%2F%2Fsigma.madrid.es%2Farcgismalla%2Frest%2Fservices%3Ff%3Djson%26option%3Dfootprints&supportsProjection=true&supportsJSONP=true) (see also the [ArcGis Rest service directory](http://sigma.madrid.es/arcg ismalla/rest/services))
 * [Map of the trees of Madrid](http://www-2.munimadrid.es/DGPVE_WUAUA/welcome.do) (in Spanish, "Un alcorque, un árbol. Madrid más verde"). This is the official map of Madrid to see the data about the trees.
+
+You might also find some open data about Madrid [on Kaggle](https://www.kaggle.com/search?q=madrid+in%3Adatasets).
