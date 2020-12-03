@@ -5,12 +5,11 @@ description: Datasets
 intro_image: "../images/open_data.svg"
 ---
 
-The data competition is about green and Madrid .
+The data competition is about green data and Madrid.
 
 Here you find some resources and datasets to start with. 
 
 You are invited to use additional and different datasets if you think they will make your work more interesting.
-
 
 We have prepared the following datasets:
 * [trees](trees)
