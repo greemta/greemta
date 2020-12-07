@@ -7,7 +7,12 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-**Deadline for submission: 15 December 2020.**
+# Deadline for submission changed!
+
+**Deadline for submission: 20 December 2020.**
+
+We will open the form as soon possible.
+
 
 # pre-register
 
