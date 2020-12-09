@@ -12,7 +12,7 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "20px"
 footer:
-  copyright_text: "<a href='privacy_policy.pdf'>privacy policy</a>"
+  copyright_text: "<a href='privacy_policy_greemta_challenge.pdf'>privacy policy</a>"
 
 seo:
   meta_og_title: "Greemta challenge"
