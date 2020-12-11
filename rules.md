@@ -10,7 +10,7 @@ intro_image_hide_on_mobile: true
 You are invited to submit web applications, interactive data analyses, visualizations, infographics based on data about trees and green in Madrid but possibly also other indicators and data.
 
 # Important dates
-You must submit your work by 15/12/2020.
+You must submit your work by 20/12/2020.
 
 # Who can partecipate
 

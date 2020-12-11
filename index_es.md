@@ -15,6 +15,6 @@ Hay premios por ***8.000 &euro;*** que se entregarán a 8 equipos. Ver todos [lo
 
 Estás invitado a desarrollar *aplicaciones web, análisis de datos interactivos, visualizaciones, infografías* basadas en datos (ver [datos](https://challenge.greemta.eu/dataset_es/)) sobre los valores *sociales* y *económicos* de los árboles y el verde en **Madrid**. Consulta [las reglas](https://challenge.greemta.eu/rules_es/).
 
-Fecha límite de envío: 15 de diciembre de 2020. 
+Fecha límite de envío: 20 de diciembre de 2020. 
 
 ADD SENTENCE ABOUT pre-registration!

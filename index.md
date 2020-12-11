@@ -9,7 +9,7 @@ intro_image_hide_on_mobile: true
 
 # A green data challenge
 
-<h2><strong>NEW DEADLINE SUBMISSION: 20 Decembre 2020</strong></h2>
+<h2><strong>NEW DEADLINE SUBMISSION: 20 December 2020</strong></h2>
 
 ## GreeMta: *Gree*n *M*adrid Sus*ta*inability
 Help to improve how **Madrid** manages its **green spaces**...
