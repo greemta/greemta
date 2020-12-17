@@ -12,7 +12,7 @@ intro_image_hide_on_mobile: true
 **Deadline for submission: 20 December 2020.**
 
 
-# your project
+# your work
 
 By filling this form you can submit your work
 
