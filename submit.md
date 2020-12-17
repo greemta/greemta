@@ -14,7 +14,7 @@ intro_image_hide_on_mobile: true
 
 # your project
 
-by filling this form you can submit your project
+By filling this form you can submit your work
 
 <div class="container" id="ff-compose"></div>
 <script async defer src="https://formfacade.com/include/105204658335877613693/form/1FAIpQLSfOCXrXW5w4u7gidhrTAiK7jzs7C98mpqSSh6colkPDYg8Vcg/bootstrap.js?div=ff-compose"></script>
