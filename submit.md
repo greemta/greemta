@@ -7,17 +7,12 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Deadline for submission changed!
+# Thanks
 
-**Deadline for submission: 20 December 2020.**
+Thanks for your proposals!
 
+Now the jury will decide the winner.
 
-# your work
-
-By filling this form you can submit your work
-
-<div class="container" id="ff-compose"></div>
-<script async defer src="https://formfacade.com/include/105204658335877613693/form/1FAIpQLSfOCXrXW5w4u7gidhrTAiK7jzs7C98mpqSSh6colkPDYg8Vcg/bootstrap.js?div=ff-compose"></script>
 
 <!--
 <br/><br/><br/>
