@@ -30,7 +30,6 @@ The general conditions allow the reuse of data for commercial and non-commercial
 
 Some pointers to other resources where you might find more datasets or inspirations:
 
-<<<<<<< HEAD
 The [open data portal of Madrid](https://datos.madrid.es/portal/site/egob/) (in Spanish, "Portal de datos abiertos del Ayuntamiento de Madrid").
 
 [Geoportal of Madrid](https://geoportal.madrid.es/IDEAM_WBGEOPORTAL/index.iam)
