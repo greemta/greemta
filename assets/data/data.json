@@ -1,0 +1,92 @@
+[
+  {
+    "id": 5,
+    "place": "1st",
+    "author": "Iacopo Testi",
+    "title": "Urban Forestry Science",
+    "description": "IMPORTANT : all cartographies present inside the link provided are INTERACTIVE INFOGRAPHICS to be explored by clicking on it. \n\nThe work aims at proving Madrid municipality with a methodological workflow to indentify optimal locations and species for planting future tree canopy. Firstly are produced granular and detail pollution metrics for each neighborhood. Then, one neighborhood (Santa Eugenia) is selected for finer scale analysis and optimal locations for planting trees are identified. \n\nPlese note : a very detailed description of the work is contained at the link provided.",
+    "url": "https://arcg.is/19fqjL0",
+    "code": "https://github.com/IacopoTesti/Urban_Forestry_Science"
+  },
+  {
+    "id": 6,
+    "place": "2nd",
+    "author": "GISdevio",
+    "title": "MaTREEd",
+    "description": "MaTREEd is a prototype of a Tree Information System for Madrid neighborhoods which helps city administrators take informed decisions on urban tree management to mitigate the impact of climate change and facilitate transition towards a greener and more sustainable urban environment. MaTREEd makes use of the datasets of Madrid trees and neighborhoods to assess the current tree carbon stock and annual sequestration rate for each neighborhood in Madrid. In addition, it offers a simulator to evaluate the impact of user-defined tree-planting scenarios. MaTREEd provides a set of data processing algorithms and an interactive web application to visualize the results and run simulations.",
+    "url": "https://gisdevio.github.io/MaTREEd/#/",
+    "code": "https://github.com/GISdevio/MaTREEd"
+  },
+  {
+    "id": 7,
+    "place": "3rd",
+    "author": "Greemtosi Team",
+    "title": "A Dive into Madrid's Green Lungs",
+    "description": "Urban green spaces provide a variety of Ecosystem Services, especially in dense urban areas. We retrieved open data on green spaces, social indicators and air quality indicators from Madrid’s City Council, and carried out data cleaning, feature engineering and data visualisation to construct a storyline that would attribute meaning to each bit. The team is heterogeneous, as every member comes from a different background of expertise - business, engineering, ecology and life science, though sharing interest and knowledge in data science.\nUrban green spaces provide a variety of Ecosystem Services, especially in dense urban areas. We retrieved open data on green spaces, social indicators and air quality indicators from Madrid’s City Council, and carried out data cleaning, feature engineering and data visualisation to construct a storyline that would attribute meaning to each bit. The team is heterogeneous, as every member comes from a different background of expertise (business, engineering, ecology and life science), though sharing interest and knowledge in data science.\nOur work consists in an interactive data visualisation via Tableau Public, which is an advantageous tool, as it reduces front-end and back-end building costs, it eases connections to a variety of databases, thus saving on software-development costs. In a data-driven journey, we aim to aid management of Madrid's urban green heritage by elucidating the environmental and socio-economic impacts provided by trees.",
+    "url": "https://public.tableau.com/profile/greemtosi.team#!/vizhome/ADiveintoMadridsGreenLungs-Greemta/Start?publish=yes",
+    "code": "---"
+  },
+  {
+    "id": 8,
+    "place": "relevant",
+    "author": "Djordje Spasic",
+    "title": "Visual analysis of street 3D greening",
+    "description": "Paper describes a novel method in analysis of street 3D greening - through the use of CAD software. 25km2 area around the Plaza de la Puerta del Sol, has been used as a proof of concept.",
+    "url": "https://www.dropbox.com/s/s9lte25xoz9nmbm/GreeMta%20challenge%20-%20Visual%20analysis%20of%20street%203D%20greening.pdf?dl=0",
+    "code": "---"
+  },
+  {
+    "id": 9,
+    "place": "relevant",
+    "author": "Vizart",
+    "title": "The green treasure of Madrid",
+    "description": "Our work is a Scrollytelling that tells the story of Madrid's vegetation, from the type of species present to its relationship with the urban space to the potential benefits that their presence could bring and already does.",
+    "url": "https://madridgreentreasure.netlify.app/",
+    "code": "---"
+  },
+  {
+    "id": 9,
+    "place": "relevant",
+    "author": "Guenter Richter",
+    "title": "Madrid Tree Data Explorer",
+    "description": "A set of maps to explore the Tree Data of the City of Madrid. The maps are accessible via a storyboard. The first map allows the user to select an area of Madrid and see the calculated tree biomass and the sequestered carbon dioxide. You can zoom into the map and see the single tree and location in relation to the population density. The maps also provide a powerful 'facet filter' tool to investigate tree attributes. Filtered maps can be shared by a generated link or saved as ixmaps projects on client-side.",
+    "url": "https://s3.eu-west-1.amazonaws.com/cntst.ixmaps.com/Madrid_Contest_II/ixmaps/app/Viewer/index.html?layout=right&sidebar=38%&story=../../stories/Madrid_II/index.html",
+    "code": "---"
+  },
+  {
+    "id": 11,
+    "place": "relevant",
+    "author": "xiaojiang li",
+    "title": "TreeMapper",
+    "description": "As an important part of urban greenery, street trees help to improve air quality, protect urban residents from noise pollution and visual intrusion, provide shade, and increase the thermal comfort for pedestrians in hot summer. In addition, the existence of street trees usually increases people’s esthetic rating of streetscapes, which would further increase the resident’s physical activities and social cohesion in neighborhoods. Cities around the world are recognizing this and many are developing strategies to increase green canopy cover. Detailed quantitative information on the benefits of trees to cities and their spatial distributions are of great importance for urban planning and management. Given the fact that Google Street View has a similar view angle with pedestrians on the ground, it provides a more human-centric perspective to map urban trees. This project used a massive amount of Google Street View images and machine learning to quantify the visibility of the street greenery and the shade provision of the street trees in one district of Madrid automatically. These maps can help cities to understand the spatial distribution of the urban trees at the fine level and the benefits of the trees to cities, both of which would provide an important reference for urban environmental planning to maximize the benefits of urban trees to cities and achieve a more environmental sustainability. The developed method is scalable based on publicly accessible Google Street View images and can be applied to any place with Google Street View service available.",
+    "url": "https://xiaojianggis.github.io/madridgreen/",
+    "code": "https://github.com/xiaojianggis/madridgreen"
+  },
+  {
+    "id": 13,
+    "place": "mentionable",
+    "author": "Christian Fei",
+    "title": "Madrid Socio-economic impact of trees",
+    "description": "Infographics to show various potential correlations about crimes, happiness/satisfaction, health related to green areas in Madrid.",
+    "url": "https://christian-fei.github.io/greemta-challenge/",
+    "code": "https://github.com/christian-fei/greemta-challenge"
+  },
+  {
+    "id": 12,
+    "place": "relevant",
+    "author": "Qiaoyun Peng",
+    "title": "GreenMadrid",
+    "description": "GreenMadrid is a web app that interactively visualizes the green areas in each district and neighborhood of Madrid.",
+    "url": "https://greenzonemadrid.herokuapp.com/",
+    "code": "https://github.com/qypeng12/greemta"
+  },
+  {
+    "id": 14,
+    "place": "mentionable",
+    "author": "Parco Sempione",
+    "title": "JoyWood",
+    "description": "Our aim is to visually represent different dimensions of human urban wellbeing in order to understand the positive effect of urban green on our health and our psyche. We made a web app that lets you visualize data related to tree density and to Physiological Equivalent Temperature in order to understand the benefits of urban green to our wellbeing.",
+    "url": "https://thawing-crag-28723.herokuapp.com/",
+    "code": "---"
+  }
+]
