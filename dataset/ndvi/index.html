@@ -103,43 +103,35 @@
         <section class="inner-page">
             <div class="container">
                 <p>
-                    Madrid is a very green city.<br />
-
-                    Among the cartographic data made available by the Municipality of Madrid there are the green areas
-                    for each district.<br /><br />
-
-                    You can find the data on this page
-                    <a
-                        href="https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=a4f36d34fa86c410VgnVCM2000000c205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default">Cartografía
-                        municipal por distritos a escala 1: 1000, SHP format,
-                        ETRS89</a>
-                    <br />
-                    The resource is a set of zip files (one for each district of Madrid) which each contain several
-                    layers in ESRI Shapefile
-                    format<br />.
-                    A description for each layer contained in the zip archives of each district,in spanish language, is
-                    available in the
-                    file <a
-                        href="https://datos.madrid.es/egob/catalogo/213565-0-cartografia-distritos-1-1000.csv">cartografia-distritos-1-1000.csv</a>
-                    <br /><br />
-                    We have extracted some of these datasets and created geojson files covering the whole territory.
-                <ul>
-                    <li><a href="https://challenge.greemta.eu/data/green/garden_areas.zip">garden areas</a>(35Mb)<br />
-                        original file: <i>11_zona_ajardinada_p.shp</i><br />
-                        description: <i>garden areas enclosure</i></li>
-                    <li><a href="https://challenge.greemta.eu/data/green/garden_courtyards_areas.geojson">garden
-                            courtyards areas</a> (2,2Mb)<br />
-                        original file: <i>11_zona_ajardinada_sobre_patio_p.shp</i><br />
-                        description: <i>garden area on courtyard</i>
+                    this resource comes from a zip archive with a several shape files that show the normalized vegetation index (NDVI) in
+                    the different areas (sidewalks, islets, parcels, planning and subvials).<br />
+                    Original source<br/>
+                    <a href="https://geoportal.madrid.es/IDEAM_WBGEOPORTAL/dataset.iam?id=c02e181e-6d78-11e9-a351-40a8f0462086">here</a>
+                    <br/>
+                    The data is collected in Spring 2018.
+                    <ul>
+                    <li>
+                        <a href="https://challenge.greemta.eu/data/ndvi/ndvi_sidewalks_islets.zip">
+                    ndvi_sidewalks_islets.zip
+                        </a> (47Mb)<br />
+                        description: normalized vegetation index (NDVI) for the sidewalks, and islets of Madrid<br />
                     </li>
-                </ul>
+                    <li><a href="https://challenge.greemta.eu/data/ndvi/ndvi_parcels.zip">
+                        ndvi_parcels.zip
+                        </a> 42Mb)<br />
+                    description: normalized vegetation index (NDVI) for the parcels of Madrid
+                    </li>
+                    <li>
+                        <a href="https://challenge.greemta.eu/data/ndvi/ndvi_subviales.zip">
+                        ndvi_subviales.zip
+                        </a> (35Mb)<br />
+                    description: normalized vegetation index (NDVI) for the subvials of Madrid<br/>
+                    <a href="https://geoportal.madrid.es/IDEAM_WBGEOPORTAL/dataset.iam?id=c02e181e-6d78-11e9-a351-40a8f0462086">
+                    https://geoportal.madrid.es/IDEAM_WBGEOPORTAL/dataset.iam?id=c02e181e-6d78-11e9-a351-40a8f0462086</a>
+                    </li>
+                    All the files are in geojson format projected in WGS84 - epsg:4326
                 </p>
                 <p>
-                    Attention:<br />
-                    the data of the garden areas contain only the polygonal without any attributes<br />
-                    <br /><br />
-
-
                     The data is open data and is licensed under these conditions<br />
                     <br />
                 <blockquote>
