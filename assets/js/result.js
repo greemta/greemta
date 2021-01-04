@@ -219,7 +219,8 @@ function showInfo(data) {
         autoplay: true,
         dots: true,
         loop: true,
-        items: 1
+        items: 1,
+        autoplayTimeout: 8000,
     }).on('changed.owl.carousel', function (event) {
         var scheda = elenco.filter(element => element.id == event.property['value']);
         showInfo(scheda[0]); //scheda[0])
