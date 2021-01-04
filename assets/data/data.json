@@ -33,7 +33,7 @@
     "title": "Visual analysis of street 3D greening",
     "description": "Paper describes a novel method in analysis of street 3D greening - through the use of CAD software. 25km2 area around the Plaza de la Puerta del Sol, has been used as a proof of concept.",
     "url": "https://www.dropbox.com/s/s9lte25xoz9nmbm/GreeMta%20challenge%20-%20Visual%20analysis%20of%20street%203D%20greening.pdf?dl=0",
-    "code": "---"
+    "code": "https://github.com/stgeorges/gismo/tree/master/src"
   },
   {
     "id": 9,
