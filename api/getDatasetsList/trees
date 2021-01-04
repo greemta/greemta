@@ -1,0 +1,47 @@
+[
+  {
+    "category": "trees",
+    "name": "trees of madrid",
+    "url": "https://challenge.greemta.eu/data/green/trees_madrid.zip",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "61Mb",
+    "update": "28/11/2020"
+  },
+  {
+    "category": "trees",
+    "name": "grates of the trees of Madrid",
+    "url": "https://challenge.greemta.eu/data/green/tree_grates.zip",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "9.5Mb",
+    "update": "28/11/2020"
+  },
+  {
+    "category": "trees",
+    "name": "plantation plan 2019/20 in Madrid",
+    "url": "https://challenge.greemta.eu/data/green/plantation_plan_2019_20.csv",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "196Kb",
+    "update": ""
+  },
+  {
+    "category": "trees",
+    "name": "pruning plan of the trees in Madrid 2019/20",
+    "url": "https://challenge.greemta.eu/data/green/pruning_plan_2019_2020.csv",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "66kb",
+    "update": ""
+  },
+  {
+    "category": "trees",
+    "name": "wooded historical unique and forest parks 2019",
+    "url": "https://challenge.greemta.eu/data/green/wooded_historical_unique_and_forest_parks_2019.csv",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "9.2kb",
+    "update": ""
+  }
+]

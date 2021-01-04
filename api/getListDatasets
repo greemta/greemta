@@ -1,0 +1,326 @@
+[
+  {
+    "category": "trees",
+    "name": "trees of madrid",
+    "url": "https://challenge.greemta.eu/data/green/trees_madrid.zip",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "61Mb",
+    "update": "28/11/2020"
+  },
+  {
+    "category": "trees",
+    "name": "grates of the trees of Madrid",
+    "url": "https://challenge.greemta.eu/data/green/tree_grates.zip",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "9.5Mb",
+    "update": "28/11/2020"
+  },
+  {
+    "category": "trees",
+    "name": "plantation plan 2019/20 in Madrid",
+    "url": "https://challenge.greemta.eu/data/green/plantation_plan_2019_20.csv",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "196Kb",
+    "update": ""
+  },
+  {
+    "category": "trees",
+    "name": "pruning plan of the trees in Madrid 2019/20",
+    "url": "https://challenge.greemta.eu/data/green/pruning_plan_2019_2020.csv",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "66kb",
+    "update": ""
+  },
+  {
+    "category": "trees",
+    "name": "wooded historical unique and forest parks 2019",
+    "url": "https://challenge.greemta.eu/data/green/wooded_historical_unique_and_forest_parks_2019.csv",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "9.2kb",
+    "update": ""
+  },
+  {
+    "category": "greenareas",
+    "name": "garden areas of Madrid",
+    "url": "https://challenge.greemta.eu/data/green/garden_areas.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "35Mb",
+    "update": ""
+  },
+  {
+    "category": "greenareas",
+    "name": "garden courtyards areas of Madrid",
+    "url": "https://challenge.greemta.eu/data/green/garden_courtyards_areas.geojson",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "2,2Mb",
+    "update": ""
+  },
+  {
+    "category": "nvdi",
+    "name": "normalized vegetation index of the sidewalks",
+    "url": "https://challenge.greemta.eu/data/ndvi/ndvi_sidewalks_islets.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "47Mb",
+    "update": "spring 2018"
+  },
+  {
+    "category": "nvdi",
+    "name": "normalized vegetation index of the parcels",
+    "url": "https://challenge.greemta.eu/data/ndvi/ndvi_parcels.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "42Mb",
+    "update": "spring 2018"
+  },
+  {
+    "category": "nvdi",
+    "name": "normalized vegetation index of the subviales",
+    "url": "https://challenge.greemta.eu/data/ndvi/ndvi_subviales.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "35Mb",
+    "update": ""
+  },
+  {
+    "category": "climate",
+    "name": "climate stations",
+    "url": "https://challenge.greemta.eu/data/climate/climate_stations.csv",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "3,3Kb",
+    "update": ""
+  },
+  {
+    "category": "climate",
+    "name": "parameters of the climatic stations",
+    "url": "https://challenge.greemta.eu/data/climate/parameters_climatic_stations.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "172kb",
+    "update": ""
+  },
+  {
+    "category": "administrativeunitns",
+    "name": "districts of Madrid",
+    "url": "https://challenge.greemta.eu/data/administrative_units/districts_madrid.geojson",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "416Kb",
+    "update": ""
+  },
+  {
+    "category": "administrativeunitns",
+    "name": "neighborhoods of madrid",
+    "url": "https://challenge.greemta.eu/data/administrative_units/neighborhoods_madrid.geojson",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "769Kb",
+    "update": ""
+  },
+  {
+    "category": "infrastructures",
+    "name": "footprint of the buildings of Madrid",
+    "url": "https://challenge.greemta.eu/data/infrastructures/buildings.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "130Mb",
+    "update": ""
+  },
+  {
+    "category": "infrastructures",
+    "name": "sildewalks of Madrid",
+    "url": "https://challenge.greemta.eu/data/infrastructures/sidewalks.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "53Mb",
+    "update": ""
+  },
+  {
+    "category": "infrastructures",
+    "name": "footpaths of Madrid",
+    "url": "https://challenge.greemta.eu/data/infrastructures/footpaths.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "38Mb",
+    "update": ""
+  },
+  {
+    "category": "infrastructures",
+    "name": "bikelanes of Madrid",
+    "url": "https://challenge.greemta.eu/data/infrastructures/bike_lanes.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "3Mb",
+    "update": ""
+  },
+  {
+    "category": "infrastructures",
+    "name": "madrid cyciling network",
+    "url": "https://challenge.greemta.eu/data/infrastructures/madrid_cycling_network.geojson",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "3,6Mb",
+    "update": ""
+  },
+  {
+    "category": "statistics",
+    "name": "area of parks and green areas in madrid",
+    "url": "https://challenge.greemta.eu/data/statistics/area_of_parks_and_green_areas_in_madrid_2019.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2019
+  },
+  {
+    "category": "statistics",
+    "name": "citizen participation neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/citizen_participation_neighborhoods.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "economic indicators districts",
+    "url": "https://challenge.greemta.eu/data/statistics/economic_indicators_districts.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "economic indicators neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/economic_indicators_neighborhoods.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "education districts",
+    "url": "https://challenge.greemta.eu/data/statistics/education_districts.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "education neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/education_neighborhoods.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "general characteristics of the district-neighborhood neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/general_characteristics_of_the_district-https://challenge.greemta.eu/data/statistics/neighborhood_neighborhoods.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "general characteristics of the districts",
+    "url": "https://challenge.greemta.eu/data/statistics/general_characteristics_of_the_districts.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "health districts",
+    "url": "https://challenge.greemta.eu/data/statistics/health_districts.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "living place districts",
+    "url": "https://challenge.greemta.eu/data/statistics/living_place_districts.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "living place neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/living_place_neighborhoods.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "municipal services and equipment neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/municipal_services_and_equipment_neighborhoods.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "security districts",
+    "url": "https://challenge.greemta.eu/data/statistics/security_districts.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "the population of the district districts",
+    "url": "https://challenge.greemta.eu/data/statistics/the_population_of_the_district_districts.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "the population of the district neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/the_population_of_the_district_neighborhoods.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "unemployment indicators districts",
+    "url": "https://challenge.greemta.eu/data/statistics/unemployment_indicators_districts.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "unemployment indicators neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/unemployment_indicators_neighborhoods.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "",
+    "update": 2020
+  }
+]
