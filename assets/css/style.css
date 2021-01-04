@@ -1274,9 +1274,12 @@ section {
   padding: 20px 0;
   border-bottom: 1px solid #eeeeee;
 }
+.faq .api-item {
+  font-family: 'Courier New', Courier, monospace;
+}
 
 .faq .faq-item i {
-  color: #8bc4ea;
+  color: #d89aac;
   font-size: 24px;
   float: left;
   line-height: 0;
@@ -1295,7 +1298,9 @@ section {
 .faq .faq-item p {
   font-size: 15px;
 }
-
+.faq a {
+  color: black;
+}
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/

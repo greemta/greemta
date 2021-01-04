@@ -10,8 +10,8 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link rel="icon" type="image/svg" href="../../assets/img/favicon-32x32.svg">
-    <link href="../../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link rel="icon" type="image/svg" href="../assets/img/favicon-32x32.svg">
+    <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link
@@ -19,16 +19,16 @@
         rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap" rel="stylesheet">
     <!-- Vendor CSS Files -->
-    <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../../assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-    <link href="../../assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-    <link href="../../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="../../assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="../../assets/vendor/venobox/venobox.css" rel="stylesheet">
-    <link href="../../assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="../assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="../assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="../assets/vendor/venobox/venobox.css" rel="stylesheet">
+    <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="../../assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/style.css" rel="stylesheet">
 
     <!-- =======================================================
   * Template Name: Vesperr - v2.3.0
@@ -48,7 +48,7 @@
                 <!--
         <h1 class="text-light"><a href="index.html"><span>Greemta</span></a></h1>
         -->
-                <a href="../../index.html"><img src="../../assets/img/logo/logo.svg" alt="" class="img-fluid"></a>
+                <a href="../index.html"><img src="../assets/img/logo/logo.svg" alt="" class="img-fluid"></a>
             </div>
 
             <nav class="nav-menu d-none d-lg-block">
@@ -57,25 +57,25 @@
                     <li><a href="../../index.html#results">Results</a></li>
                     <li class="drop-down"><a href="../../index.html#datasets">Datasets</a>
                         <ul>
-                            <li><a href="../trees">trees</a></li>
-                            <li><a href="../greenareas">green areas</a></li>
-                            <li><a href="../nvdi/">normalized vegetation index</a></li>
-                            <li><a href="../climate">climate</a></li>
-                            <li><a href="#">administrative divisions of the city</a></li>
-                            <li><a href="../infrastructures">infrastructures</a></li>
-                            <li><a href="../statisticdata">statistic data</a></li>
+                            <li><a href="../dataset/trees">trees</a></li>
+                            <li><a href="../dataset/greenareas">green areas</a></li>
+                            <li><a href="../dataset/nvdi/">normalized vegetation index</a></li>
+                            <li><a href="../dataset/climate">climate</a></li>
+                            <li><a href="../dataset/administrativeunits">administrative divisions of the city</a></li>
+                            <li><a href="../dataset/infrastructures">infrastructures</a></li>
+                            <li><a href="../dataset/statisticdata">statistic data</a></li>
                         </ul>
                     </li>
-                    <li><a href="../../index.html/#rules">Rules</a></li>
-                    <li><a href="../../index.html#prizes">Prizes</a></li>
-                    <li><a href="../../index.html#info">Info</a></li>
+                    <li><a href="../index.html#rules">Rules</a></li>
+                    <li><a href="../index.html#prizes">Prizes</a></li>
+                    <li><a href="../index.html#info">Info</a></li>
                     <li><a href="https://www.facebook.com/greemta" class="facebook">
                             <i class="icofont-facebook"></i>
                         </a></li>
                     <li><a href="https://twitter.com/greemta" class="twitter">
                             <i class="icofont-twitter"></i></a></li>
                     <li><a href="https://translate.google.com/translate?sl=en&tl=es&u=challenge.greemta.eu">
-                            <img src="../../assets/img/es.jpg"></a></li>
+                            <img src="../assets/img/es.jpg"></a></li>
                     <!--<li class="get-started"><a href="#about">Get Started</a></li>-->
                 </ul>
             </nav><!-- .nav-menu -->
@@ -90,10 +90,10 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center">
-                    <h2>Administrative Divisions of the City</h2>
+                    <h2>API</h2>
                     <ol>
-                        <li><a href="../../index.html#datasets">datasets</a></li>
-                        <li>administrative divisions of the city</li>
+                        <li><a href="../index.html">Home</a></li>
+                        <li>API</li>
                     </ol>
                 </div>
 
@@ -101,54 +101,71 @@
         </section><!-- End Breadcrumbs Section -->
 
         <section class="inner-page">
-            <div class="container" data-aos="fade-up" data-aos-delay="100">
-                <p>
-                    Madrid is divided into 131 barrios (<u>neighborhoods</u>) which in turn are grouped into 21
-                    distritos
-                    (<u>districts</u>).<br /><br />
+            <section id="rules" class="faq">
+                <div class="container" data-aos="fade-up" data-aos-delay="100">        
 
-                    This type of dataset are very useful for spatial analyzes.
-                    <br /><br />
+                    <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                        <div class="col-lg-5">
+                            <i class="ri-cloud-line"></i>
+                            <h4 class='api-item'>getListResults</h4>
+                        </div>
+                        <div class="col-lg-7">
+                            <p>
+                                this function return a json with the complete list of the results of the greemta projecte.<br /><br />
+                                try:<br />
+                            <p class="api-item">
+                                <a
+                                    href="https://challenge.greemta.eu/api/getListResults">https://challenge.greemta.eu/api/getListResults</a>
+                            </p>
+                            </p>
+                        </div>
+                    </div><!-- End F.A.Q Item-->
 
-                    We organized the geographical information in geojson format.
-                    <br /><br />
+                    <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                        <div class="col-lg-5">
+                            <i class="ri-cloud-line"></i>
+                            <h4 class='api-item'>getListDatasets</h4>
+                        </div>
+                        <div class="col-lg-7">
+                            <p>
+                                this function return a json with the complete list of the datasets.<br/><br/>
+                                try:<br/>
+                                <p class="api-item">
+                                    <a href="https://challenge.greemta.eu/api/getListDatasets">https://challenge.greemta.eu/api/getListDatasets</a>
+                                </p>
+                            </p>
+                        </div>
+                    </div><!-- End F.A.Q Item-->
 
-                    You can download these files here
-                <ul>
-                    <li>
-                        <a href="https://challenge.greemta.eu/data/administrative_units/districts_madrid.geojson">
-                            districts
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://challenge.greemta.eu/data/administrative_units/neighborhoods_madrid.geojson">
-                            neighborhoods
-                        </a>
-                    </li>
-                </ul>
-                <br />
-                visit the <a
-                    href="https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=46b55cde99be2410VgnVCM1000000b205a0aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default">page</a>
-                of this dataset in the Madrid open data portal.
-                <br /><br />
-                We suggest also to enrich this dataset by using the <a
-                    href="https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5a0/?vgnextoid=71359583a773a510VgnVCM2000001f4a900aRCRD&vgnextchannel=374512b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default"></a>socio-demographic
-                indicators
-                </p>
-                <p>
-                    The data is open data and is licensed under these conditions<br />
-                    <br />
-                <blockquote>
-                    The general conditions allow the reuse of data for commercial and non-commercial purposes. You have
-                    to cite the origin of the data as Madrid City Council and not suggest the Madrid City Council
-                    supports your work
-                    <br /><br />
-                    Please read the complete license
-                    <a
-                        href="https://datos.madrid.es/portal/site/egob/menuitem.3efdb29b813ad8241e830cc2a8a409a0/?vgnextoid=108804d4aab90410VgnVCM100000171f5a0aRCRD&vgnextchannel=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default">here</a>
-                    in particular the section relative to the *Condiciones generales para la reutilización*
-                </blockquote>
-                </p>
+                    <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                        <div class="col-lg-5">
+                            <i class="ri-cloud-line"></i>
+                            <h4 class='api-item'>getDatasetsList/name</h4>
+                        </div>
+                        <div class="col-lg-7">
+                            <p>
+                                the value "name" can assume on of these:
+                                <ul>
+                                    <li>trees</li>
+                                    <li>greenareas</li>
+                                    <li>ndvi</li>
+                                    <li>climate</li>
+                                    <li>administrativeunits</li>
+                                    <li>infrastructures</li>
+                                    <li>statistcsdata</li>
+                                </ul>
+                                this function return a json with the complete list of the datasets for each domain listened above.<br /><br />
+                                try with "trees":<br />
+                            <p class="api-item">
+                                <a
+                                    href="https://challenge.greemta.eu/api/getDatasetsList/trees">https://challenge.greemta.eu/api/getDatasetList/trees</a>
+                            </p>
+                            </p>
+                        </div>
+                    </div><!-- End F.A.Q Item-->
+
+                </div>
+            </section>
             </div>
         </section>
 
@@ -168,7 +185,7 @@
                     <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
                         <a href="../../index.html" class="scrollto">Home</a>
                         <a href="../../privacy_policy_greemta_challenge.pdf">Privacy Policy</a>
-                        <a href="../../api">&lt;API/&gt;</a>
+                        <a href="../../api/">&lt;API/&gt;</a>
                     </nav>
                 </div>
             </div>
