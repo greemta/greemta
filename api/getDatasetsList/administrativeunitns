@@ -1,0 +1,18 @@
+[
+  {
+    "category": "administrativeunitns",
+    "name": "districts of Madrid",
+    "url": "https://challenge.greemta.eu/data/administrative_units/districts_madrid.geojson",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "416Kb"
+  },
+  {
+    "category": "administrativeunitns",
+    "name": "neighborhoods of madrid",
+    "url": "https://challenge.greemta.eu/data/administrative_units/neighborhoods_madrid.geojson",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "769Kb"
+  }
+]
