@@ -1,0 +1,29 @@
+[
+  {
+    "category": "nvdi",
+    "name": "normalized vegetation index of the sidewalks",
+    "url": "https://challenge.greemta.eu/data/ndvi/ndvi_sidewalks_islets.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "47Mb",
+    "update": "spring 2018"
+  },
+  {
+    "category": "nvdi",
+    "name": "normalized vegetation index of the parcels",
+    "url": "https://challenge.greemta.eu/data/ndvi/ndvi_parcels.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "42Mb",
+    "update": "spring 2018"
+  },
+  {
+    "category": "nvdi",
+    "name": "normalized vegetation index of the subviales",
+    "url": "https://challenge.greemta.eu/data/ndvi/ndvi_subviales.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "35Mb",
+    "update": "spring 2018"
+  }
+]

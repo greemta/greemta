@@ -1,0 +1,121 @@
+[
+  {
+    "category": "statistics",
+    "name": "area of parks and green areas in madrid",
+    "url": "https://challenge.greemta.eu/data/statistics/area_of_parks_and_green_areas_in_madrid_2019.csv",
+    "format": "csv",
+    "update": 2019
+  },
+  {
+    "category": "statistics",
+    "name": "citizen participation neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/citizen_participation_neighborhoods.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "economic indicators districts",
+    "url": "https://challenge.greemta.eu/data/statistics/economic_indicators_districts.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "economic indicators neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/economic_indicators_neighborhoods.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "education districts",
+    "url": "https://challenge.greemta.eu/data/statistics/education_districts.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "education neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/education_neighborhoods.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "general characteristics of the district-neighborhood neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/general_characteristics_of_the_district-https://challenge.greemta.eu/data/statistics/neighborhood_neighborhoods.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "general characteristics of the districts",
+    "url": "https://challenge.greemta.eu/data/statistics/general_characteristics_of_the_districts.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "health districts",
+    "url": "https://challenge.greemta.eu/data/statistics/health_districts.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "living place districts",
+    "url": "https://challenge.greemta.eu/data/statistics/living_place_districts.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "living place neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/living_place_neighborhoods.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "municipal services and equipment neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/municipal_services_and_equipment_neighborhoods.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "security districts",
+    "url": "https://challenge.greemta.eu/data/statistics/security_districts.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "the population of the district districts",
+    "url": "https://challenge.greemta.eu/data/statistics/the_population_of_the_district_districts.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "the population of the district neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/the_population_of_the_district_neighborhoods.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "unemployment indicators districts",
+    "url": "https://challenge.greemta.eu/data/statistics/unemployment_indicators_districts.csv",
+    "format": "csv",
+    "update": 2020
+  },
+  {
+    "category": "statistics",
+    "name": "unemployment indicators neighborhoods",
+    "url": "https://challenge.greemta.eu/data/statistics/unemployment_indicators_neighborhoods.csv",
+    "format": "csv",
+    "update": 2020
+  }
+]

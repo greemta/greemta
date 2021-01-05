@@ -1,0 +1,18 @@
+[
+  {
+    "category": "climate",
+    "name": "climate stations",
+    "url": "https://challenge.greemta.eu/data/climate/climate_stations.csv",
+    "format": "csv",
+    "projection": "epsg:4326",
+    "size": "3,3Kb"
+  },
+  {
+    "category": "climate",
+    "name": "parameters of the climatic stations",
+    "url": "https://challenge.greemta.eu/data/climate/parameters_climatic_stations.csv",
+    "format": "csv",
+    "projection": "",
+    "size": "172kb"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "category": "infrastructures",
+    "name": "footprint of the buildings of Madrid",
+    "url": "https://challenge.greemta.eu/data/infrastructures/buildings.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "130Mb"
+  },
+  {
+    "category": "infrastructures",
+    "name": "sildewalks of Madrid",
+    "url": "https://challenge.greemta.eu/data/infrastructures/sidewalks.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "53Mb"
+  },
+  {
+    "category": "infrastructures",
+    "name": "footpaths of Madrid",
+    "url": "https://challenge.greemta.eu/data/infrastructures/footpaths.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "38Mb"
+  },
+  {
+    "category": "infrastructures",
+    "name": "bikelanes of Madrid",
+    "url": "https://challenge.greemta.eu/data/infrastructures/bike_lanes.zip",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "3Mb"
+  },
+  {
+    "category": "infrastructures",
+    "name": "madrid cyciling network",
+    "url": "https://challenge.greemta.eu/data/infrastructures/madrid_cycling_network.geojson",
+    "format": "geojson",
+    "projection": "epsg:4326",
+    "size": "3,6Mb"
+  }
+]
