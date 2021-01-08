@@ -14,9 +14,7 @@
     <link href="../../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap" rel="stylesheet">
     <!-- Vendor CSS Files -->
     <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -70,19 +68,27 @@
                     <li><a href="../../index.html#rules">Rules</a></li>
                     <li><a href="../../index.html#prizes">Prizes</a></li>
                     <li><a href="../../index.html#info">Info</a></li>
-                    <li><a href="https://www.facebook.com/greemta" class="facebook">
+                    <li>
+                        <a href="https://www.facebook.com/greemta" class="facebook">
                             <i class="icofont-facebook"></i>
-                        </a></li>
-                    <li><a href="https://twitter.com/greemta" class="twitter">
-                            <i class="icofont-twitter"></i></a></li>
-                    <li><a href="https://translate.google.com/translate?sl=en&tl=es&u=challenge.greemta.eu">
-                            <img src="../../assets/img/es.jpg"></a></li>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/greemta" class="twitter">
+                            <i class="icofont-twitter"></i></a>
+                    </li>
+                    <li>
+                        <a href="https://translate.google.com/translate?sl=en&tl=es&u=challenge.greemta.eu">
+                            <img src="../../assets/img/es.jpg"></a>
+                    </li>
                     <!--<li class="get-started"><a href="#about">Get Started</a></li>-->
                 </ul>
-            </nav><!-- .nav-menu -->
+            </nav>
+            <!-- .nav-menu -->
 
         </div>
-    </header><!-- End Header -->
+    </header>
+    <!-- End Header -->
 
     <main id="main">
 
@@ -99,21 +105,21 @@
                 </div>
 
             </div>
-        </section><!-- End Breadcrumbs Section -->
+        </section>
+        <!-- End Breadcrumbs Section -->
 
         <section class="inner-page">
             <div class="container">
                 <p>
-                    Indicator<br />
+                    Indicator<br /> Here are available the datasets of the indicators created by our challenge<br /><br />
 
-                    Here are available the datasets of the indicators created by our challenge<br /><br />
-
-                <ul>
-                    <li><a href="https://challenge.greemta.eu/data/indicators/enviromental_discomfort_index_madrid_districts_2019.csv">Environmental Discomfort Index</a> off all the districts 2019<br />
-                        source code: <a href="https://github.com/greemta/greemta/blob/main/results/urban_foresty_science/Composite_index/Composite_index/Environmental_Discomfort_Index.ipynb">python notebook</a><br />
-                        description: <a href="https://storymaps.arcgis.com/stories/708e395ca43a4da491afaf5fa1462d30">data visualization</a>
-                    </li>
-                </ul>
+                    <ul>
+                        <li><a href="https://challenge.greemta.eu/data/indicators/enviromental_discomfort_index_madrid_districts_2019.csv">Environmental
+                                Discomfort Index</a> off all the districts 2019<br /> source code: <a href="https://github.com/greemta/greemta/blob/main/results/urban_foresty_science/Composite_index/Composite_index/Environmental_Discomfort_Index.ipynb">python
+                                notebook</a><br /> description: <a href="https://storymaps.arcgis.com/stories/708e395ca43a4da491afaf5fa1462d30">data
+                                visualization</a>
+                        </li>
+                    </ul>
                 </p>
                 <p>
                     The data is derived from the Madrid open data portal and is licensed in cc-by 4.0
@@ -121,7 +127,8 @@
             </div>
         </section>
 
-    </main><!-- End #main -->
+    </main>
+    <!-- End #main -->
 
     <!-- ======= Footer ======= -->
     <footer id="footer">
@@ -129,8 +136,7 @@
             <div class="row d-flex align-items-center">
                 <div class="col-lg-6 text-lg-left text-center">
                     <div class="credits small">
-                        template based on <strong>Vesperr</strong> designed by <a
-                            href="https://bootstrapmade.com/">BootstrapMade</a>
+                        template based on <strong>Vesperr</strong> designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -142,7 +148,8 @@
                 </div>
             </div>
         </div>
-    </footer><!-- End Footer -->
+    </footer>
+    <!-- End Footer -->
 
     <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
@@ -166,12 +173,17 @@
         /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
         _paq.push(['trackPageView']);
         _paq.push(['enableLinkTracking']);
-        (function () {
+        (function() {
             var u = "//stats.labmod.org/";
             _paq.push(['setTrackerUrl', u + 'matomo.php']);
             _paq.push(['setSiteId', '6']);
-            var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
-            g.type = 'text/javascript'; g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+            var d = document,
+                g = d.createElement('script'),
+                s = d.getElementsByTagName('script')[0];
+            g.type = 'text/javascript';
+            g.async = true;
+            g.src = u + 'matomo.js';
+            s.parentNode.insertBefore(g, s);
         })();
     </script>
     <noscript>
